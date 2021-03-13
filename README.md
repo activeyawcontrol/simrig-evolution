@@ -1,59 +1,79 @@
 # simrig-evolution
 
-## MK I
+## Version 1.0
 
-Timeline: 0 AD -> December 2018
+Timeline: 0 AD -> December 2017
 
 Mood: it'd be cool to play Gran Turismo every once in a while.
 
-Gear:
-
-Sim equipment:
+Sim rig:
+* Logitech Driving Force GT
+* Computer desk
 
 PC:
-* PS3
+* Nah PS3
 
-## MK I
+## Version 2.0
+
+Timeline: December 2017-November 2019
 
 Mood: it'd be cool to play iRacing every once in a while.
-
-Gear:
 
 PC: 
 * Intel i4590 processor
 * 16 GB RAM
 * Bunch of random hard drives
 
-Sim equipment:
-* Thrustmaster T300RS wheelbase
-* Thrustmaster T300RS pedals
-
-Rig:
+Sim rig:
+* [+] Thrustmaster T300RS wheelbase
+* [+] Thrustmaster T300RS pedals
 * Coffee table + extra wood for mounting
 
-## MK II
+## Version 2.1
 
 Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better rig so that I can do more iRacing in the offseason.
 
-Gear: 
+PC:
+* Intel i4590 processor
+* 16 GB RAM
+* Bunch of random hard drives
+* [+] Radeon RX580
+* [+] Some SSD + brackets
+* 26" Samsung TV/monitor
 
-* Wheelstand pro, but for a different wheel. Like, not the T300RS.
-* Ikea kid's chair
-* Some dining room chair (wayfair?)
-* a block of wood or something so the pedals wouldn't move that much
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Thrustmaster T300RS pedals
+* [+] Wheelstand pro, but for a different wheel. Like, not the T300RS.
+* [+] Ikea kid's chair
+* [+] Some dining room chair (wayfair?)
+* [+] a block of wood in front of the rear chair legs or something so the pedals wouldn't move that much
 
-## MK III 
+Images:
+* ...
 
-Mood: My PC sucks. I can sort of play iRacing but not really
 
-* Radeon RX580
-
-## MK IV
+## Version 3.0: The SimRiggening
 
 Mood: I'm sick of my pedals moving so much. I should get something that is more rigid. 
 
 What I thought I'd buy: Playseat, maybe a Simetik K2
 What I actually bought: SimLab GT1 Evo
+
+PC:
+* Intel i4590 processor
+* 16 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* 26" Samsung TV/monitor
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Thrustmaster T300RS pedals
+* SimLab GT1 Evo
+* SimLab single monitor mount 
+
 
 ## MK V
 
