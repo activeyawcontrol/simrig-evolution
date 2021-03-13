@@ -311,13 +311,54 @@ Sim rig:
 
 ## Version 6.0
 
-Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout when people with G25s kick my ass. Which will continue to happen because I don't practice enough.
+Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout when people with G25s kick my ass. Which will continue to happen because I don't practice enough. Also, I want a fourth monitor so that when I spin into the grass, I know when to rejoin without murdering someone.
+
+Mount: 
+* I started with the SimLab direct drive mount
+* I changed the orientation of the bars from vertical to horizontal for more knee room
+* I ended up wanting more angle and bought the HRS bracket to use with the SimLab profile
+
+PC:
+* AMD Ryzen5 3600 processor
+* 16 GB RAM
+* ASRock B450M Pro4 AMD AM4 mATX Motherboard
+* Fractal Design Define S2
+* EVGA 650BQ 
+* 512 GB NVME
+* Powered USB hub
+* Triple AOC CQ32G1
+* [+] Dell 24" something-or-other for data
+
+Sim rig:
+* [+] Simucube 2 Sport
+* [+] Hybrid Racing Simulations Simucube mount
+* Heusinkveld Sprint pedals
+* Heusinkveld sequential shifter
+* Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* [+] SimLab fourth monitor mount
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* SimLab PC shelf
+* Sym Projects Pro Race 2 (rev light)
+
 
 ### Wheel 1: convert the T300RS
 
+Why: I already have the T300, so it's sort of free.
+What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, Simucube wheel-side quick release
 
 ### Wheel 2: rally wheel
 
+Why: I play a lot of DiRT 2.0 and I want something proper rally size.
+
+Attempt 1:
+* OMP WRC. 350mm - too big. 
 
 ### Wheel 3: GT wheel
 
