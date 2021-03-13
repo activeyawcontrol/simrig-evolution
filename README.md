@@ -21,8 +21,9 @@ Mood: it'd be cool to play iRacing every once in a while.
 
 PC: 
 * Intel i4590 processor
-* 16 GB RAM
+* 8 GB RAM
 * Bunch of random hard drives
+* 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
 
 Sim rig:
 * [+] Thrustmaster T300RS wheelbase
@@ -35,11 +36,11 @@ Mood: Hey, I want to get back into autocrossing on the regular. I should set up 
 
 PC:
 * Intel i4590 processor
-* 16 GB RAM
+* 8 GB RAM
 * Bunch of random hard drives
 * [+] Radeon RX580
 * [+] Some SSD + brackets
-* 26" Samsung TV/monitor
+* 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
 
 Sim rig:
 * Thrustmaster T300RS wheelbase
@@ -62,88 +63,253 @@ What I actually bought: SimLab GT1 Evo
 
 PC:
 * Intel i4590 processor
-* 16 GB RAM
+* 8 GB RAM
 * Bunch of random hard drives
 * Radeon RX580
 * Some SSD + brackets
-* 26" Samsung TV/monitor
+* 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Thrustmaster T300RS pedals
+* [+] SimLab GT1 Evo
+* [+] SimLab single monitor mount 
+* [+] NRG FRP310 seat
+
+## Version 3.1: moar pixels
+
+Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples.
+
+What I thought I'd buy: 34" ultrawide 
+What I actually bought: 34" ultrawide (LG 34UM69G-B)
+
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* [-] 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
+* [+] LG 34UM69G-B
+
+## Version 3.1.1: lol jk
+
+Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. 
+
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* [-] LG 34UM69G-B
+* [+] 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
+
+## Version 3.2: totally not doing triples but you never know
+
+Mood: I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases in case I change my mind. 
+Mood2: Shopping for monitors is fucking hard.
+
+What I then actually bought: 32" AOC CQ32G1
+
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* [-] 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
+* [+] AOC CQ32G1
 
 Sim rig:
 * Thrustmaster T300RS wheelbase
 * Thrustmaster T300RS pedals
 * SimLab GT1 Evo
 * SimLab single monitor mount 
+* NRG FRP310 seat
+
+## Version 3.3: Accessorize!
+
+Mood: This thing is turning into spaghetti. I need to start organizing. And cable managing. I mean, sort of. Also, beer.
+
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* AOC CQ32G1
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Thrustmaster T300RS pedals
+* SimLab GT1 Evo
+* SimLab single monitor mount 
+* NRG FRP310 seat
+* [+] ~~SimLab~~ Sparco Seat slider
+* [+] Simlab Keyboard Tray
+* [+] SimLab Speaker brackets
+* [+] SimLab Caster wheels
+* [+] SimLab Cup holder
 
 
-## MK V
-
-Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples.
-
-What I thought I'd buy: 34" ultrawide 
-What I actually bought: 34" ultrawide
-
-## MK N
-
-Mood: Ah fuck, the 34" LG doesn't really mount right to this SimLab single monitor mount. I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases.
-
-What I returned: 34" ultrawide
-What I then actually bought: 32" AOC CQ32G1
-  
-## MK N
+## Version 3.4: I mean I might do triples I guess
 
 Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount.
 
 What I bought: triple mount
 
-## MK N
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* AOC CQ32G1
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Thrustmaster T300RS pedals
+* SimLab GT1 Evo
+* [-] SimLab single monitor mount 
+* [+] SimLab triple monitor mount (standalone)
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+
+## Version 4.0: Fancy parts start here
 
 Mood: I'm hearing a lot about load cell pedals. These T300RS pedals aren't that great. I'll see about the Fanatec V3s.
 
 What I thought I'd buy: Fanatec V3s
 What I actually bought: Heusinkveld Sprints, because the V3s sold out really quickly.
 
-## MK N
+PC:
+* Intel i4590 processor
+* 8 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* AOC CQ32G1
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* [-] Thrustmaster T300RS pedals
+* [+] Heusinkveld Sprint pedals
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+
+## Version 4.1
 
 Mood: some quality of life stuff. No big upgrades, just some rig tidying. 
 
-8GB Crucial RAM
+PC:
+* Intel i4590 processor
+* [-] 8 GB RAM
+* [+] 16 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* [+] Powered USB hub
+* AOC CQ32G1
 
-USB hub
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Heusinkveld Sprint pedals
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* [+] SimLab PC shelf
+* [+] Sym Projects Pro Race 2 (rev light)
 
-Puma shoes
-
-Pro Race 2
-
-PC shelf
-
-Velcro strips
-Velcro stickers
-
-
-## MK N
+## Version 4.2
 
 Mood: it'd be cool to have a shifter. Hey, the Fanatec looks cool. I can go manual or sequential!
+Mood2: Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
 
 What I thought I'd buy: Fanatec SSQ 1.5
 What I ordered: Fanatec SSQ 1.5
 What I cancelled after two weeks of the order not moving: Fanatech SSQ 1.5
 What I then ordered: Heusinkveld sequential shifter
-
-## MK N
-
-Mood: Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
-
 What I ordered: Heusinkveld handbrake
 
-## MK major version butmp
+PC:
+* Intel i4590 processor
+* 16 GB RAM
+* Bunch of random hard drives
+* Radeon RX580
+* Some SSD + brackets
+* Powered USB hub
+* AOC CQ32G1
+
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Heusinkveld Sprint pedals
+* [+] Heusinkveld sequential shifter
+* [+] Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* [+] SimLab PC shelf
+* [+] Sym Projects Pro Race 2 (rev light)
+
+## Version 5.0
 
 Mood: I want triples. Also, ACC is pretty cool but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
 
-### Minor tweak
+PC:
+* [-] Intel i4590 processor
+* [+] AMD Ryzen5 3600 processor
+* [-] 16 GB RAM
+* [+] 16 GB RAM
+* [+] ASRock B450M Pro4 AMD AM4 mATX Motherboard
+* [+] Fractal Design Define S2
+* [+] EVGA 650BQ 
+* [-] Some SSD + brackets
+* [-] Bunch of random hard drives
+* [+] 512 GB NVME
+* [-] Radeon RX580
+* Powered USB hub
+* AOC CQ32G1
+* [+] AOC CQ32G1
+* [+] AOC CQ32G1
 
-magnetic paddles
+Sim rig:
+* Thrustmaster T300RS wheelbase
+* Heusinkveld Sprint pedals
+* Heusinkveld sequential shifter
+* Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* SimLab PC shelf
+* Sym Projects Pro Race 2 (rev light)
 
-## MK major version bump
+## Version 6.0
 
 Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout when people with G25s kick my ass. Which will continue to happen because I don't practice enough.
 
