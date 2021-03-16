@@ -375,3 +375,4 @@ What I did: painted seat orange at a local body shop
 
 
 
+![Now with SimCore](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210228_234524911.jpg)
