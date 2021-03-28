@@ -225,6 +225,8 @@ Sim rig:
 * SimLab Caster wheels
 * SimLab Cup holder
 
+![Kinda awkward with only the one monitor](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev3-4.jpg)
+
 ## Version 4.1
 
 Mood: some quality of life stuff. No big upgrades, just some rig tidying. 
@@ -289,6 +291,9 @@ Sim rig:
 * [+] SimLab PC shelf
 * [+] Sym Projects Pro Race 2 (rev light)
 
+![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev42.jpg)
+
+
 ## Version 5.0
 
 Mood: I want triples. Also, ACC is pretty cool but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
@@ -325,6 +330,8 @@ Sim rig:
 * SimLab Cup holder
 * SimLab PC shelf
 * Sym Projects Pro Race 2 (rev light)
+
+![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev50.jpg)
 
 ## Version 6.0
 
@@ -364,11 +371,16 @@ Sim rig:
 * SimLab PC shelf
 * Sym Projects Pro Race 2 (rev light)
 
+![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev60.jpg)
 
 ### Wheel 1: convert the T300RS
 
 Why: I already have the T300, so it's sort of free.
-What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, Simucube wheel-side quick release
+What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, the wrong quick release
+
+![on the bottom](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x.jpg)
+
+https://github.com/activeyawcontrol/simrig-evolution/blob/main/rev6x.jpg
 
 ### Wheel 2: rally wheel
 
@@ -377,7 +389,19 @@ Why: I play a lot of DiRT 2.0 and I want something proper rally size.
 Attempt 1:
 * OMP WRC. 350mm - too big. 
 
+Attempt 2: 
+* Sparco R383. 330mm, just right. 
+
 ### Wheel 3: GT wheel
+
+Why: TCR, GT3, GTE.
+
+What:
+* NSH Racing BLE Sport wireless button box
+* Motamec D-shape 320mm wheel
+
+![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
+
 
 ## MK next
 
@@ -387,9 +411,13 @@ What I did: painted seat orange at a local body shop
 
 ### Wheel 4: GT wheel, but again
 
+Why: another button broken on the NSH Racing box. Also, the people who touch SimCore button boxes seem to love them.
 
+What:
+* Sparco P310
+* SimCore SDT24-WS
 
-
-
+Notes:
+* I had to do a lot of thinking ahead of time to figure out what buttons hsould do what
 
 ![Now with SimCore](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210228_234524911.jpg)
