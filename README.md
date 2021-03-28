@@ -372,6 +372,14 @@ Sim rig:
 * Sym Projects Pro Race 2 (rev light)
 
 ![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev60.jpg)
+![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6-4th.jpg)
+
+## Epilogue: Am I done now?
+
+No.
+
+
+## Appendix: Wheel collection
 
 ### Wheel 1: convert the T300RS
 
