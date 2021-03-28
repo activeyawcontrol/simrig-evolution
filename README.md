@@ -1,4 +1,4 @@
-# simrig-evolution
+# My Sim rig evolution aka how deep does the rabbit hole go
 
 ![It's deep](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/3HeH.gif)
 
