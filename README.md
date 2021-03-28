@@ -404,8 +404,7 @@ Timeline: November 2020 - present
 
 What I did: painted seat orange at a local body shop
 
-
-
+![Now with SimCore](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210228_234524911.jpg)
 
 ## Epilogue: Am I done now?
 
@@ -419,19 +418,29 @@ No.
 Why: I already have the T300, so it's sort of free.
 What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, the wrong quick release
 
+Purchased September 2020
+
 ![on the bottom](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x.jpg)
 
 https://github.com/activeyawcontrol/simrig-evolution/blob/main/rev6x.jpg
 
+Review: This was fine and it got me through the initial period where I was waiting for button boxes to be in stock. I disassembled it and put the T300RS setup back the way it was so that the kiddos can use it on the PS4.
+
 ### Wheel 2: rally wheel
 
-Why: I play a lot of DiRT 2.0 and I want something proper rally size.
+Why: I play a lot of DiRT 2.0 and I want something round + proper rally size.
+
+Purchased September 2020
 
 Attempt 1:
 * OMP WRC. 350mm - too big. 
 
 Attempt 2: 
 * Sparco R383. 330mm, just right. 
+
+Review: I started out with just a wheel + the Simucube quick release because DiRT doesn't need very many buttons. I ended up purchasing a button box from SimLine. SimLine has a few ready-made type button boxes - a Fiesta WRC, a Porsche GT, and an Audi R8 GT3. They can also do custom wheels including funky switches and Simucube wireless. I had a button box made with only a handful of buttons, one funky switch (mostly for menus) and SC2 wireless. It's awesome! The paddles are better than the NSH though they are not amazeballs like the SimCore paddles. Buttons are good. And the value is excellent. The only thing I'd change is possibly ordering the Fiesta WRC button box in wireless instead because it looks great. (Though even in DiRT most of those buttons would not have jobs, I think)
+
+You can find them on Facebook here: https://www.facebook.com/simline.gt/
 
 ### Wheel 3: GT wheel
 
@@ -443,6 +452,8 @@ What:
 
 ![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
 
+Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
+
 ### Wheel 4: GT wheel, but again
 
 Why: another button broken on the NSH Racing box. Also, the people who touch SimCore button boxes seem to love them.
@@ -452,6 +463,9 @@ What:
 * SimCore SDT24-WS
 
 Notes:
-* I had to do a lot of thinking ahead of time to figure out what buttons hsould do what
+* I had to do a lot of thinking ahead of time to figure out what buttons should do what
 
-![Now with SimCore](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210228_234524911.jpg)
+Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those.
+* https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
+* https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
+It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons).
