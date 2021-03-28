@@ -469,3 +469,6 @@ Review: this thing is awesome. The details are better covered by Boosted Media a
 * https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
 * https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
 It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons).
+
+This video from Jardier was very helpful for figuring out what functions I should map for ACC:
+* https://www.youtube.com/watch?v=uIKfOaLw3Us
