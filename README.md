@@ -4,6 +4,8 @@
 
 Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bunch of stuff happened. Here is how the sim rig has evolved over time.
 
+You may notice a cluster of purchases in April 2020. That's right around when it became clear that autocross season was effectively canceled. 
+
 ## Version 0.0
 
 Timeline: 0 AD -> 2003, maybe?
