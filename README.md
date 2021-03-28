@@ -81,6 +81,7 @@ Timeline: January 2020 -> April 2020
 
 What I thought I'd buy: 
 * Playseat, maybe a Simetik K2
+
 What I actually bought: 
 * SimLab GT1 Evo
 
