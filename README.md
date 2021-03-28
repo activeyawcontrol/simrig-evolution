@@ -468,6 +468,8 @@ What:
 * NSH Racing BLE Sport wireless button box
 * Motamec D-shape 320mm wheel
 
+Purchased September 2020
+
 ![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
 
 Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
@@ -479,6 +481,8 @@ Why: another button broken on the NSH Racing box. Also, the people who touch Sim
 What:
 * Sparco P310
 * SimCore SDT24-WS
+
+Purchased January 2021
 
 Notes:
 * I had to do a lot of thinking ahead of time to figure out what buttons should do what
