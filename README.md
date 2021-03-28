@@ -79,8 +79,10 @@ Mood: I'm sick of my pedals moving so much. I should get something that is more 
 
 Timeline: January 2020 -> April 2020
 
-What I thought I'd buy: Playseat, maybe a Simetik K2
-What I actually bought: SimLab GT1 Evo
+What I thought I'd buy: 
+* Playseat, maybe a Simetik K2
+What I actually bought: 
+* SimLab GT1 Evo
 
 PC:
 * Intel i4590 processor
@@ -105,8 +107,10 @@ Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be ni
 
 Timeline: April 2020
 
-What I thought I'd buy: 34" ultrawide 
-What I actually bought: 34" ultrawide (LG 34UM69G-B)
+What I thought I'd buy: 
+* 34" ultrawide 
+What I actually bought: 
+* 34" ultrawide (LG 34UM69G-B)
 
 PC:
 * Intel i4590 processor
@@ -119,7 +123,7 @@ PC:
 
 ## Version 3.1.1: lol jk
 
-Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. 
+Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. Like I could probably make it work with some adapters, but nah.
 
 Timeline: April 2020
 
@@ -134,8 +138,11 @@ PC:
 
 ## Version 3.2: totally not doing triples but you never know
 
-Mood: I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases in case I change my mind. 
-Mood2: Shopping for monitors is fucking hard.
+Mood: 
+* I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases in case I change my mind. 
+
+Mood2: 
+* Shopping for monitors is fucking hard.
 
 Timeline: April 2020
 
@@ -216,8 +223,11 @@ Sim rig:
 
 Mood: I'm hearing a lot about load cell pedals. These T300RS pedals aren't that great. I'll see about the Fanatec V3s.
 
-What I thought I'd buy: Fanatec V3s
-What I actually bought: Heusinkveld Sprints, because the V3s sold out really quickly.
+What I thought I'd buy: 
+* Fanatec V3s
+
+What I actually bought: 
+* Heusinkveld Sprints, because the V3s sold out really quickly. Buy once, cry once, right?
 
 Timeline: April 2020
 
@@ -276,16 +286,19 @@ Sim rig:
 
 ## Version 4.2
 
-Mood: it'd be cool to have a shifter. Hey, the Fanatec looks cool. I can go manual or sequential!
-Mood2: Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
+Mood: 
+* it'd be cool to have a shifter. Hey, the Fanatec looks cool. I can go manual or sequential!
+
+Mood2: 
+* Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
 
 Timeline: May 2020 - July 2020
 
-What I thought I'd buy: Fanatec SSQ 1.5
-What I ordered: Fanatec SSQ 1.5
-What I cancelled after two weeks of the order not moving: Fanatech SSQ 1.5
-What I then ordered: Heusinkveld sequential shifter
-What I ordered: Heusinkveld handbrake
+* What I thought I'd buy: Fanatec SSQ 1.5
+* What I ordered: Fanatec SSQ 1.5
+* What I cancelled after two weeks of the order not moving: Fanatech SSQ 1.5
+* What I then ordered: Heusinkveld sequential shifter
+* What I ordered: Heusinkveld handbrake
 
 PC:
 * Intel i4590 processor
@@ -316,7 +329,7 @@ Sim rig:
 
 ## Version 5.0
 
-Mood: I want triples. Also, ACC is pretty cool but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
+Mood: I want triples. Also, ACC is pretty cool, but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
 
 Timeline: July 2020 - September 2020
 
@@ -332,6 +345,7 @@ PC:
 * [-] Bunch of random hard drives
 * [+] 512 GB NVME
 * [-] Radeon RX580
+* [+] Asus Dual Evo 2060 Super
 * Powered USB hub
 * AOC CQ32G1
 * [+] AOC CQ32G1
@@ -354,6 +368,8 @@ Sim rig:
 * Sym Projects Pro Race 2 (rev light)
 
 ![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev50.jpg)
+
+Coming out of this, iRacing ran fine at triple 1440p with some details turned down but ACC and DiRT were less comfortable so I was running them at triple 1080p.
 
 ## Version 6.0
 
