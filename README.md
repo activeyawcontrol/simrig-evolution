@@ -49,6 +49,8 @@ Sim rig:
 
 Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better rig so that I can do more iRacing in the offseason.
 
+Timeline: November 2019 -> January 2020
+
 PC:
 * Intel i4590 processor
 * 8 GB RAM
@@ -73,6 +75,8 @@ Sim rig:
 
 Mood: I'm sick of my pedals moving so much. I should get something that is more rigid. 
 
+Timeline: January 2020 -> April 2020
+
 What I thought I'd buy: Playseat, maybe a Simetik K2
 What I actually bought: SimLab GT1 Evo
 
@@ -95,7 +99,9 @@ Sim rig:
 
 ## Version 3.1: moar pixels
 
-Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples.
+Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples. Time to get working on my autocross car since I have all this downtime now.
+
+Timeline: April 2020
 
 What I thought I'd buy: 34" ultrawide 
 What I actually bought: 34" ultrawide (LG 34UM69G-B)
@@ -113,6 +119,8 @@ PC:
 
 Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. 
 
+Timeline: April 2020
+
 PC:
 * Intel i4590 processor
 * 8 GB RAM
@@ -126,6 +134,8 @@ PC:
 
 Mood: I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases in case I change my mind. 
 Mood2: Shopping for monitors is fucking hard.
+
+Timeline: April 2020
 
 What I then actually bought: 32" AOC CQ32G1
 
@@ -149,6 +159,8 @@ Sim rig:
 
 Mood: This thing is turning into spaghetti. I need to start organizing. And cable managing. I mean, sort of. Also, beer.
 
+Timeline: April 2020
+
 PC:
 * Intel i4590 processor
 * 8 GB RAM
@@ -169,10 +181,11 @@ Sim rig:
 * [+] SimLab Caster wheels
 * [+] SimLab Cup holder
 
-
 ## Version 3.4: I mean I might do triples I guess
 
 Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount.
+
+Timeline: April 2020
 
 What I bought: triple mount
 
@@ -204,6 +217,8 @@ Mood: I'm hearing a lot about load cell pedals. These T300RS pedals aren't that 
 What I thought I'd buy: Fanatec V3s
 What I actually bought: Heusinkveld Sprints, because the V3s sold out really quickly.
 
+Timeline: April 2020
+
 PC:
 * Intel i4590 processor
 * 8 GB RAM
@@ -230,6 +245,8 @@ Sim rig:
 ## Version 4.1
 
 Mood: some quality of life stuff. No big upgrades, just some rig tidying. 
+
+Timeline: April 2020 - May 2020
 
 PC:
 * Intel i4590 processor
@@ -259,6 +276,8 @@ Sim rig:
 
 Mood: it'd be cool to have a shifter. Hey, the Fanatec looks cool. I can go manual or sequential!
 Mood2: Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
+
+Timeline: May 2020 - July 2020
 
 What I thought I'd buy: Fanatec SSQ 1.5
 What I ordered: Fanatec SSQ 1.5
@@ -293,10 +312,11 @@ Sim rig:
 
 ![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev42.jpg)
 
-
 ## Version 5.0
 
 Mood: I want triples. Also, ACC is pretty cool but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
+
+Timeline: July 2020 - September 2020
 
 PC:
 * [-] Intel i4590 processor
@@ -337,6 +357,8 @@ Sim rig:
 
 Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout when people with G25s kick my ass. Which will continue to happen because I don't practice enough. Also, I want a fourth monitor so that when I spin into the grass, I know when to rejoin without murdering someone.
 
+Timeline: September 2020 - November 2020
+
 Mount: 
 * I started with the SimLab direct drive mount
 * I changed the orientation of the bars from vertical to horizontal for more knee room
@@ -374,6 +396,17 @@ Sim rig:
 ![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev60.jpg)
 ![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6-4th.jpg)
 
+## Version 6.1: bling
+
+Mood: I have no complaints about my setup, except it's just really dark. Everything is black.
+
+Timeline: November 2020 - present
+
+What I did: painted seat orange at a local body shop
+
+
+
+
 ## Epilogue: Am I done now?
 
 No.
@@ -409,13 +442,6 @@ What:
 * Motamec D-shape 320mm wheel
 
 ![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
-
-
-## MK next
-
-Mood: I have no complaints about my setup, except it's just really dark. Everything is black.
-
-What I did: painted seat orange at a local body shop
 
 ### Wheel 4: GT wheel, but again
 
