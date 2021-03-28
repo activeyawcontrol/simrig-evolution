@@ -1,28 +1,43 @@
 # simrig-evolution
 
-## Version 1.0
+![It's deep](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/3HeH.gif)
 
-Timeline: 0 AD -> December 2017
+Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bunch of stuff happened. Here is how the sim rig has evolved over time.
+
+## Version 0.0
+
+Timeline: 0 AD -> 2003, maybe?
 
 Mood: it'd be cool to play Gran Turismo every once in a while.
 
+PC:
+* Not a PC. PS2
+* Gran Turismo 3
+
+## Version 1.0
+
+Timeline: 2003, maybe? -> December 2017
+
+Mood: it'd be cool to play Gran Turismo with a wheel every once in a while.
+
 Sim rig:
-* Logitech Driving Force GT
+* Logitech Driving Force GT bought used from Craigslist
 * Computer desk
 
 PC:
 * Nah PS3
 
-## Version 2.0
+## Version 2.0: Still a filthy casual
 
 Timeline: December 2017-November 2019
 
 Mood: it'd be cool to play iRacing every once in a while.
 
-PC: 
+PC (preexisting): 
 * Intel i4590 processor
 * 8 GB RAM
-* Bunch of random hard drives
+* Radeon HD 5750 (2009-era)
+* Bunch of random platter hard drives
 * 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
 
 Sim rig:
@@ -50,9 +65,9 @@ Sim rig:
 * [+] Some dining room chair (wayfair?)
 * [+] a block of wood in front of the rear chair legs or something so the pedals wouldn't move that much
 
-Images:
-* ...
+### Images:
 
+![sweet chair](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev2-1.jpg)
 
 ## Version 3.0: The SimRiggening
 
@@ -75,6 +90,8 @@ Sim rig:
 * [+] SimLab GT1 Evo
 * [+] SimLab single monitor mount 
 * [+] NRG FRP310 seat
+
+![so stable](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev3-0.jpg)
 
 ## Version 3.1: moar pixels
 
