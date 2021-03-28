@@ -185,7 +185,7 @@ Sim rig:
 
 ## Version 3.4: I mean I might do triples I guess
 
-Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount.
+Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount (as opposed to the integrated which forces certain geometry and doesn't deal with triples > 32" without modifications).
 
 Timeline: April 2020
 
