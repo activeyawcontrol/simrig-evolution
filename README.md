@@ -6,6 +6,14 @@ Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bun
 
 You may notice a cluster of purchases in April 2020. That's right around when it became clear that autocross season was effectively canceled. 
 
+## I don't want to read all this noise, despite the charming and snarky tone. What lessons did you learn that other people can use?
+
+* Skip to the good stuff. You'll save money in the long term. 
+ * I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
+ * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
+* Consider whether you really want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. 
+* Simucube 2 wireless has been 100% reliable for me so far.
+
 ## Version 0.0
 
 Timeline: 0 AD -> 2003, maybe?
