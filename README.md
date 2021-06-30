@@ -453,7 +453,7 @@ https://github.com/activeyawcontrol/simrig-evolution/blob/main/rev6x.jpg
 
 Review: This was fine and it got me through the initial period where I was waiting for button boxes to be in stock. I disassembled it and put the T300RS setup back the way it was so that the kiddos can use it on the PS4.
 
-### Wheel 2: rally wheel
+### Wheel 2: rally wheel: Sparco R383 + SimLine button box
 
 Why: I play a lot of DiRT 2.0 and I want something round + proper rally size.
 
@@ -469,7 +469,7 @@ Review: I started out with just a wheel + the Simucube quick release because DiR
 
 You can find them on Facebook here: https://www.facebook.com/simline.gt/
 
-### Wheel 3: GT wheel
+### Wheel 3: GT wheel: NSH Racing + Motamec D shape
 
 Why: TCR, GT3, GTE.
 
@@ -483,13 +483,13 @@ Purchased September 2020
 
 Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
 
-### Wheel 4: GT wheel, but again
+### Wheel 4: GT wheel, but again: Sparco P310 + SimCore STD24-WS
 
 Why: another button broken on the NSH Racing box. Also, the people who touch SimCore button boxes seem to love them.
 
 What:
 * Sparco P310
-* SimCore SDT24-WS
+* SimCore STD24-WS
 
 Purchased January 2021
 
