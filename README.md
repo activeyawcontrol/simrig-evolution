@@ -454,6 +454,8 @@ What I did: bought SimCore aluminum mounts
 
 How did it go: Great! This is what I had been lacking. It occurs to me that I might want taller uprights. I can say though, I have no perceptible flex even with 40x80mm profile for the uprights. 
 
+![Now with SimCore Mount](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/post-simcore-mount.jpg)
+
 Timeline: July 2021 - August 2021
 
 ## Version 7.1: Cable management
