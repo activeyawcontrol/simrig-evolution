@@ -9,10 +9,13 @@ You may notice a cluster of purchases in April 2020. That's right around when it
 ## I don't want to read all this noise, despite the charming and snarky tone. What lessons did you learn that other people can use?
 
 * Skip to the good stuff. You'll save money in the long term. 
- * I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
- * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
+** I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
+** I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
 * Consider whether you really want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. 
 * Simucube 2 wireless has been 100% reliable for me so far.
+* Two little sort of stupid things that make me happy:
+** The 3d-simgear flag
+** The Simucube premium power-off button
 
 ## Version 0.0
 
@@ -427,11 +430,41 @@ Sim rig:
 
 Mood: I have no complaints about my setup, except it's just really dark. Everything is black.
 
-Timeline: November 2020 - present
+Timeline: November 2020 - December 2020
 
 What I did: painted seat orange at a local body shop
 
 ![Now with SimCore](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210228_234524911.jpg)
+
+## Version 6.2: more bling
+
+Mood: Dan Suzuki has one of these flag things. It's cool! It also gives you warnings when you're alongside someone, kind of like external radar.
+
+Timeline: December 2020 - July 2021
+
+https://shop.3d-simgear.de/en/category-2/	
+
+## Version 7.0: SimCore mount
+
+Mood: I want to change my seating position a little.. but with the hardware I have, I'm limited on legroom. I need to go front-mount on the Simucube rather than side mount in order to raise the height of the wheelbase which will give me alot more flexibility. 
+
+What I did: bought SimCore aluminum mounts
+* SimCore UM1-ALN
+* SimCore UM1-ALN mounting kit - 500mm for GT1 Evo
+
+How did it go: Great! This is what I had been lacking. It occurs to me that I might want taller uprights. I can say though, I have no perceptible flex even with 40x80mm profile for the uprights. 
+
+Timeline: July 2021 - August 2021
+
+## Version 7.1: Cable management
+
+Mood: holy fuck this is a lotta cables
+
+What I did: lots of velcro ties. Moved the UPS to behind the pedals. Moved the USB hubs to behind the pedals. Moved the extra speaker wire to the sub area rather than below the seat. All of this led to less things needing to be on the uprights and more things being away from the PC itself. 
+
+Thoughts: some of these cables are fucking annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. 
+
+Pictures to come.
 
 ## Epilogue: Am I done now?
 
