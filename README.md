@@ -480,7 +480,19 @@ Reference material:
 * Boosted Media's video about the mount: 
     * https://www.youtube.com/watch?v=CONU4_ikdG8&ab_channel=BoostedMedia
 
-## Version 7.1: Cable management
+## Version 7.1: Rumble motors / wind sim
+
+Timeline: August 2021
+
+Mood: I saw this review for this cool rumble kit thing on Facebook, it's pretty cheap, let's try that.
+
+What I did:
+* 
+
+
+## Version 7.2: Cable management
+
+Timeline: August 2021
 
 Mood: holy fuck this is a lotta cables
 
