@@ -9,13 +9,13 @@ You may notice a cluster of purchases in April 2020. That's right around when it
 ## I don't want to read all this noise, despite the charming and snarky tone. What lessons did you learn that other people can use?
 
 * Skip to the good stuff. You'll save money in the long term. 
-** I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
-** I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
+    * I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
+    * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
 * Consider whether you really want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. 
 * Simucube 2 wireless has been 100% reliable for me so far.
 * Two little sort of stupid things that make me happy:
-** The 3d-simgear flag
-** The Simucube premium power-off button
+    * The 3d-simgear flag. The radar functionality is awesome and the flashing flags are just cool. It's one of those nice immersion things.
+    * The Simucube premium power-off button. It looks nice, it blends into the black aluminum, and I can easily tell whether the wheelbase is on.
 
 ## Version 0.0
 
@@ -449,12 +449,29 @@ https://shop.3d-simgear.de/en/category-2/
 Mood: I want to change my seating position a little.. but with the hardware I have, I'm limited on legroom. I need to go front-mount on the Simucube rather than side mount in order to raise the height of the wheelbase which will give me alot more flexibility. 
 
 What I did: bought SimCore aluminum mounts
-* SimCore UM1-ALN
-* SimCore UM1-ALN mounting kit - 500mm for GT1 Evo
 
 How did it go: Great! This is what I had been lacking. It occurs to me that I might want taller uprights. I can say though, I have no perceptible flex even with 40x80mm profile for the uprights. 
 
 ![Now with SimCore Mount](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/post-simcore-mount.jpg)
+
+Sim rig:
+* Simucube 2 Sport
+* [-] Hybrid Racing Simulations Simucube mount
+* [+] SimCore UM1-ALN mount + mounting kit (500mm)
+* Heusinkveld Sprint pedals
+* Heusinkveld sequential shifter
+* Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* SimLab fourth monitor mount
+* NRG FRP310 seat
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* SimLab PC shelf
+* Sym Projects Pro Race 2 (rev light)
 
 Timeline: July 2021 - August 2021
 
@@ -462,11 +479,21 @@ Timeline: July 2021 - August 2021
 
 Mood: holy fuck this is a lotta cables
 
-What I did: lots of velcro ties. Moved the UPS to behind the pedals. Moved the USB hubs to behind the pedals. Moved the extra speaker wire to the sub area rather than below the seat. All of this led to less things needing to be on the uprights and more things being away from the PC itself. 
+What I did: 
+* lots of velcro ties: https://www.amazon.com/gp/product/B001E1Y5O6
+* moved the UPS to behind the pedals
+* moved the USB hubs to behind the pedals
+* moved the extra speaker wire to the sub area rather than below the seat. 
 
-Thoughts: some of these cables are fucking annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. 
+All of this led to less things needing to be on the uprights and more things being away from the PC itself. Now there is a big strand going from the back of the PC under the pedal deck. 
+
+Thoughts: some of these cables are super annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. Or the Heusinkveld handbrake with its little clear box. Also, I should get a wireless keyboard. 
 
 Pictures to come.
+
+## Verison ?? Vario Vesa mounts
+
+Mood: the alignment on 
 
 ## Epilogue: Am I done now?
 
