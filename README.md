@@ -60,9 +60,9 @@ Sim rig:
 
 ## Version 2.1
 
-Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better rig so that I can do more iRacing in the offseason.
-
 Timeline: November 2019 -> January 2020
+
+Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better rig so that I can do more iRacing in the offseason.
 
 PC:
 * Intel i4590 processor
@@ -86,9 +86,9 @@ Sim rig:
 
 ## Version 3.0: The SimRiggening
 
-Mood: I'm sick of my pedals moving so much. I should get something that is more rigid. 
-
 Timeline: January 2020 -> April 2020
+
+Mood: I'm sick of my pedals moving so much. I should get something that is more rigid. 
 
 What I thought I'd buy: 
 * Playseat, maybe a Simetik K2
@@ -115,9 +115,9 @@ Sim rig:
 
 ## Version 3.1: moar pixels
 
-Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples. Time to get working on my autocross car since I have all this downtime now.
-
 Timeline: April 2020
+
+Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples. Time to get working on my autocross car since I have all this downtime now.
 
 What I thought I'd buy: 
 * 34" ultrawide 
@@ -135,9 +135,9 @@ PC:
 
 ## Version 3.1.1: lol jk
 
-Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. Like I could probably make it work with some adapters, but nah.
-
 Timeline: April 2020
+
+Mood: Ah fuck, the 34" LG doesn't really mount correctly to this SimLab single monitor mount. Like I could probably make it work with some adapters, but nah.
 
 PC:
 * Intel i4590 processor
@@ -150,13 +150,13 @@ PC:
 
 ## Version 3.2: totally not doing triples but you never know
 
+Timeline: April 2020
+
 Mood: 
 * I'll return it and buy a single 32". I doubt I'm ever going to go triples but a 32" covers my bases in case I change my mind. 
 
 Mood2: 
 * Shopping for monitors is fucking hard.
-
-Timeline: April 2020
 
 What I then actually bought: 32" AOC CQ32G1
 
@@ -178,9 +178,9 @@ Sim rig:
 
 ## Version 3.3: Accessorize!
 
-Mood: This thing is turning into spaghetti. I need to start organizing. And cable managing. I mean, sort of. Also, beer.
-
 Timeline: April 2020
+
+Mood: This thing is turning into spaghetti. I need to start organizing. And cable managing. I mean, sort of. Also, beer.
 
 PC:
 * Intel i4590 processor
@@ -204,9 +204,9 @@ Sim rig:
 
 ## Version 3.4: I mean I might do triples I guess
 
-Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount (as opposed to the integrated which forces certain geometry and doesn't deal with triples > 32" without modifications).
-
 Timeline: April 2020
+
+Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount (as opposed to the integrated which forces certain geometry and doesn't deal with triples > 32" without modifications).
 
 What I bought: triple mount
 
@@ -233,6 +233,8 @@ Sim rig:
 
 ## Version 4.0: Fancy parts start here
 
+Timeline: April 2020
+
 Mood: I'm hearing a lot about load cell pedals. These T300RS pedals aren't that great. I'll see about the Fanatec V3s.
 
 What I thought I'd buy: 
@@ -240,8 +242,6 @@ What I thought I'd buy:
 
 What I actually bought: 
 * Heusinkveld Sprints, because the V3s sold out really quickly. Buy once, cry once, right?
-
-Timeline: April 2020
 
 PC:
 * Intel i4590 processor
@@ -268,9 +268,9 @@ Sim rig:
 
 ## Version 4.1
 
-Mood: some quality of life stuff. No big upgrades, just some rig tidying. 
-
 Timeline: April 2020 - May 2020
+
+Mood: some quality of life stuff. No big upgrades, just some rig tidying. 
 
 PC:
 * Intel i4590 processor
@@ -298,13 +298,13 @@ Sim rig:
 
 ## Version 4.2
 
+Timeline: May 2020 - July 2020
+
 Mood: 
 * it'd be cool to have a shifter. Hey, the Fanatec looks cool. I can go manual or sequential!
 
 Mood2: 
 * Dirt Rally is pretty awesome. I want a handbrake so I can stop using the circle button on my T300RS wheel.
-
-Timeline: May 2020 - July 2020
 
 * What I thought I'd buy: Fanatec SSQ 1.5
 * What I ordered: Fanatec SSQ 1.5
@@ -341,9 +341,9 @@ Sim rig:
 
 ## Version 5.0
 
-Mood: I want triples. Also, ACC is pretty cool, but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
-
 Timeline: July 2020 - September 2020
+
+Mood: I want triples. Also, ACC is pretty cool, but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
 
 PC:
 * [-] Intel i4590 processor
@@ -385,9 +385,9 @@ Coming out of this, iRacing ran fine at triple 1440p with some details turned do
 
 ## Version 6.0
 
-Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout when people with G25s kick my ass. Which will continue to happen because I don't practice enough. Also, I want a fourth monitor so that when I spin into the grass, I know when to rejoin without murdering someone.
-
 Timeline: September 2020 - November 2020
+
+Mood: People with G25s are kicking my ass on a T300RS! I need a DD wheel. So that I can get more of a workout, when people with G25s kick my ass. Which will continue to happen because I don't practice enough. Also, I want a fourth monitor so that when I spin into the grass, I know when to rejoin without murdering someone.
 
 Mount: 
 * I started with the SimLab direct drive mount
@@ -428,9 +428,9 @@ Sim rig:
 
 ## Version 6.1: bling
 
-Mood: I have no complaints about my setup, except it's just really dark. Everything is black.
-
 Timeline: November 2020 - December 2020
+
+Mood: I have no complaints about my setup, except it's just really dark. Everything is black.
 
 What I did: painted seat orange at a local body shop
 
@@ -438,13 +438,15 @@ What I did: painted seat orange at a local body shop
 
 ## Version 6.2: more bling
 
-Mood: Dan Suzuki has one of these flag things. It's cool! It also gives you warnings when you're alongside someone, kind of like external radar.
-
 Timeline: December 2020 - July 2021
+
+Mood: Dan Suzuki has one of these flag things. It's cool! It also gives you warnings when you're alongside someone, kind of like external radar.
 
 https://shop.3d-simgear.de/en/category-2/	
 
 ## Version 7.0: SimCore mount
+
+Timeline: July 2021 - August 2021
 
 Mood: I want to change my seating position a little.. but with the hardware I have, I'm limited on legroom. I need to go front-mount on the Simucube rather than side mount in order to raise the height of the wheelbase which will give me alot more flexibility. 
 
@@ -477,9 +479,6 @@ Sim rig:
 Reference material: 
 * Boosted Media's video about the mount: 
     * https://www.youtube.com/watch?v=CONU4_ikdG8&ab_channel=BoostedMedia
-
-
-Timeline: July 2021 - August 2021
 
 ## Version 7.1: Cable management
 
@@ -571,10 +570,12 @@ Purchased January 2021
 Notes:
 * I had to do a lot of thinking ahead of time to figure out what buttons should do what
 
-Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those.
-* https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
-* https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
-It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons).
+Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons).
 
-This video from Jardier was very helpful for figuring out what functions I should map for ACC:
-* https://www.youtube.com/watch?v=uIKfOaLw3Us
+Reference material: 
+* Boosted Media's STD24-WS review
+    * https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
+* GTGreg's STD24-WS review
+    * https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
+* This video from Jardier was very helpful for figuring out what functions I should map for ACC:
+    * https://www.youtube.com/watch?v=uIKfOaLw3Us
