@@ -11,8 +11,8 @@ You may notice a cluster of purchases in April 2020. That's right around when it
 * Skip to the good stuff. You'll save money in the long term. 
     * I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
     * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
-* Consider whether you really want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. 
-* Simucube 2 wireless has been 100% reliable for me so far.
+* Consider whether you *really* want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. I see people on Facebook talking about how they really want an SC2 but can barely afford it - don't! Get some load cell pedals and call it a day. The DD will not make you faster. It's not worth going into debt for.
+* Simucube 2 wireless has been 100% reliable for me so far. I haven't even had to change batteries in the button boxes yet.
 * Two little sort of stupid things that make me happy:
     * The 3d-simgear flag. The radar functionality is awesome and the flashing flags are just cool. It's one of those nice immersion things.
     * The Simucube premium power-off button. It looks nice, it blends into the black aluminum, and I can easily tell whether the wheelbase is on.
@@ -510,12 +510,12 @@ No.
 
 ## Appendix: Wheel collection
 
-### Wheel 1: convert the T300RS
+### Wheel 1: convert the T300RS wheel
+
+Purchased September 2020
 
 Why: I already have the T300, so it's sort of free.
 What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, the wrong quick release
-
-Purchased September 2020
 
 ![on the bottom](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x.jpg)
 
@@ -525,11 +525,11 @@ Review: This was fine and it got me through the initial period where I was waiti
 
 ### Wheel 2: rally wheel: Sparco R383 + SimLine button box
 
+Purchased September 2020
+
 Why: I play a lot of DiRT 2.0 and I want something round + proper rally size.
 
 ![330mm just right](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210806_212431464.jpg)
-
-Purchased September 2020
 
 Attempt 1:
 * OMP WRC. 350mm - too big. 
@@ -537,11 +537,13 @@ Attempt 1:
 Attempt 2: 
 * Sparco R383. 330mm, just right. 
 
-Review: I started out with just a wheel + the Simucube quick release because DiRT doesn't need very many buttons. I ended up purchasing a button box from SimLine. SimLine has a few ready-made type button boxes - a Fiesta WRC, a Porsche GT, and an Audi R8 GT3. They can also do custom wheels including funky switches and Simucube wireless. I had a button box made with only a handful of buttons, one funky switch (mostly for menus) and SC2 wireless. It's awesome! The paddles are better than the NSH though they are not amazeballs like the SimCore paddles. Buttons are good. And the value is excellent. The only thing I'd change is possibly ordering the Fiesta WRC button box in wireless instead because it looks great. (Though even in DiRT most of those buttons would not have jobs, I think)
+Review: I started out with just a wheel + the Simucube quick release because DiRT doesn't need very many buttons. I ended up purchasing a button box from SimLine. SimLine has a few ready-made type button boxes - a Fiesta WRC, a Porsche GT, and an Audi R8 GT3. They can also do custom wheels including funky switches and Simucube wireless. I had a button box made with only a handful of buttons, one funky switch (mostly for menus) and SC2 wireless. It's awesome! The paddles are better than the NSH though they are not amazeballs like the SimCore paddles. Buttons are good. And the value is excellent. The only thing I'd change is possibly ordering the Fiesta WRC button box in wireless instead because it looks great. (Though even in DiRT most of those buttons would not have jobs, I think; but they would look cool)
 
 You can find them on Facebook here: https://www.facebook.com/simline.gt/
 
 ### Wheel 3: GT wheel: NSH Racing + Motamec D shape
+
+Purchased September 2020
 
 Why: TCR, GT3, GTE.
 
@@ -549,13 +551,13 @@ What:
 * NSH Racing BLE Sport wireless button box
 * Motamec D-shape 320mm wheel
 
-Purchased September 2020
-
 ![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
 
 Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
 
 ### Wheel 4: GT wheel, but again: Sparco P310 + SimCore STD24-WS
+
+Purchased January 2021
 
 ![before my hands started messing up the wheel](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210401_145921955.jpg)
 
@@ -565,12 +567,10 @@ What:
 * Sparco P310
 * SimCore STD24-WS
 
-Purchased January 2021
-
 Notes:
 * I had to do a lot of thinking ahead of time to figure out what buttons should do what
 
-Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons).
+Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons). I use those for Crew Chief.
 
 Reference material: 
 * Boosted Media's STD24-WS review
