@@ -2,16 +2,18 @@
 
 ![It's deep](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/3HeH.gif)
 
-Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bunch of stuff happened. Here is how the sim rig has evolved over time.
+Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bunch of stuff happened. Here is how my sim rig has evolved over time.
 
 You may notice a cluster of purchases in April 2020. That's right around when it became clear that autocross season was effectively canceled. 
+
+Things have cooled off quite a bit in 2021. I have my setup pretty much how I want it and I'm at the "upgrades would be diminishing returns" phase for sure. 
 
 ## I don't want to read all this noise, despite the charming and snarky tone. What lessons did you learn that other people can use?
 
 * Skip to the good stuff. You'll save money in the long term. 
-    * I went straight to the Heusinkvelds when I decided to get serious and that turned out great.
-    * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible, it was fine, but it's not a button box I will want to keep forever.
-* Consider whether you *really* want direct drive. One of the things I like about it is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. I see people on Facebook talking about how they really want an SC2 but can barely afford it - don't! Get some load cell pedals and call it a day. The DD will not make you faster. It's not worth going into debt for.
+    * I went straight to the Heusinkvelds when I decided to get serious - that turned out great.
+    * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible - it was fine, but it's not a button box I will want to keep forever.
+* Consider whether you *really* want direct drive. One of the things I like about the SC2 is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. I see people on Facebook talking about how they really want an SC2 but can barely afford it - don't! Get some load cell pedals and call it a day. The DD will not make you faster. It's not worth going into debt for.
 * Simucube 2 wireless has been 100% reliable for me so far. I haven't even had to change batteries in the button boxes yet.
 * Two little sort of stupid things that make me happy:
     * The 3d-simgear flag. The radar functionality is awesome and the flashing flags are just cool. It's one of those nice immersion things.
@@ -49,7 +51,7 @@ Mood: it'd be cool to play iRacing every once in a while.
 PC (preexisting): 
 * Intel i4590 processor
 * 8 GB RAM
-* Radeon HD 5750 (2009-era)
+* Radeon HD 5750 (2009-era!)
 * Bunch of random platter hard drives
 * 26" Samsung TV/monitor (that doesn't have proper VESA mounts because reasons)
 
@@ -62,7 +64,7 @@ Sim rig:
 
 Timeline: November 2019 -> January 2020
 
-Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better rig so that I can do more iRacing in the offseason.
+Mood: Hey, I want to get back into autocrossing on the regular. I should set up a better sim rig so that I can do more iRacing in the offseason.
 
 PC:
 * Intel i4590 processor
@@ -76,8 +78,8 @@ Sim rig:
 * Thrustmaster T300RS wheelbase
 * Thrustmaster T300RS pedals
 * [+] Wheelstand pro, but for a different wheel. Like, not the T300RS.
-* [+] Ikea kid's chair
-* [+] Some dining room chair (wayfair?)
+* [+] Seat: Ikea PS Vago's chair (https://www.ikea.com/us/en/p/ikea-ps-vagoe-chair-outdoor-white-10174641/)
+* [+] Monitor stand: Some dining room chair (wayfair?)
 * [+] a block of wood in front of the rear chair legs or something so the pedals wouldn't move that much
 
 ### Images:
@@ -107,8 +109,12 @@ PC:
 Sim rig:
 * Thrustmaster T300RS wheelbase
 * Thrustmaster T300RS pedals
+* [-] Wheelstand pro, but for a different wheel. Like, not the T300RS.
+* [-] a block of wood in front of the rear chair legs or something so the pedals wouldn't move that much
 * [+] SimLab GT1 Evo
+* [-] Monitor stand: Some dining room chair (wayfair?)
 * [+] SimLab single monitor mount 
+* [-] Seat: Ikea PS Vago's chair (https://www.ikea.com/us/en/p/ikea-ps-vagoe-chair-outdoor-white-10174641/)
 * [+] NRG FRP310 seat
 
 ![so stable](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev3-0.jpg)
@@ -117,7 +123,7 @@ Sim rig:
 
 Timeline: April 2020
 
-Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples. Time to get working on my autocross car since I have all this downtime now.
+Mood: This rig is nice, but my monitor hookup is pretty hokey and it would be nice to accessorize. I don't think I'll ever get triples. Time to get working on my autocross car since I have all this downtime now due to the completely-temporary closures that are happening right now.
 
 What I thought I'd buy: 
 * 34" ultrawide 
@@ -206,9 +212,9 @@ Sim rig:
 
 Timeline: April 2020
 
-Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount (as opposed to the integrated which forces certain geometry and doesn't deal with triples > 32" without modifications).
+Mood: OK, I don't think I'm going to get triples any time soon, but I probably will eventually. I should just buy the triple stand now, because SimLab is getting backordered really quickly, and that way I'm covered whenever I want to upgrade. Also, it will make it easier if the monitor is on the standalone mount (as opposed to the SimLab integrated mount, which forces certain geometry and doesn't deal with triples > 32" without modifications).
 
-What I bought: triple mount
+What I bought: SimLab triple mount
 
 PC:
 * Intel i4590 processor
@@ -343,7 +349,7 @@ Sim rig:
 
 Timeline: July 2020 - September 2020
 
-Mood: I want triples. Also, ACC is pretty cool, but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. 
+Mood: I want triples. Also, ACC is pretty cool, but my PC pretty much sucks. Playing single screen 1080p ACC with 70% resolution scaling is basically like playing Gran Turismo 2. Hey, a friend of mine is selling his 2060 Super after some upgrades. I really want a 3080, but they're sorta hard to find so this will cover me until they are. 
 
 PC:
 * [-] Intel i4590 processor
@@ -381,7 +387,11 @@ Sim rig:
 
 ![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev50.jpg)
 
-Coming out of this, iRacing ran fine at triple 1440p with some details turned down but ACC and DiRT were less comfortable so I was running them at triple 1080p.
+Coming out of this, iRacing ran fine at triple 1440p with some details turned down but ACC and DiRT were less comfortable so I was running them at triple 1080p. 
+
+References:
+* Dan Suzuki's triple-screens-without-surround video 
+    * https://www.youtube.com/watch?v=-irPlVdDdJo&ab_channel=DanSuzuki
 
 ## Version 6.0
 
