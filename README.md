@@ -451,6 +451,7 @@ Mood: I want to change my seating position a little.. but with the hardware I ha
 What I did: bought SimCore aluminum mounts
 
 How did it go: Great! This is what I had been lacking. It occurs to me that I might want taller uprights. I can say though, I have no perceptible flex even with 40x80mm profile for the uprights. 
+![More visible](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev7-post-simcore-mount-light.jpg)
 
 ![Now with SimCore Mount](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/post-simcore-mount.jpg)
 
@@ -473,6 +474,11 @@ Sim rig:
 * SimLab PC shelf
 * Sym Projects Pro Race 2 (rev light)
 
+Reference material: 
+* Boosted Media's video about the mount: 
+    * https://www.youtube.com/watch?v=CONU4_ikdG8&ab_channel=BoostedMedia
+
+
 Timeline: July 2021 - August 2021
 
 ## Version 7.1: Cable management
@@ -487,13 +493,16 @@ What I did:
 
 All of this led to less things needing to be on the uprights and more things being away from the PC itself. Now there is a big strand going from the back of the PC under the pedal deck. 
 
-Thoughts: some of these cables are super annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. Or the Heusinkveld handbrake with its little clear box. Also, I should get a wireless keyboard. 
+Thoughts: some of these cables are super annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. Or the Heusinkveld handbrake with its little clear box. Also, I should get a wireless keyboard. Also also, this is oddly addictive. Am I OCD?
+
+Reference material: 
+* N/A
 
 Pictures to come.
 
 ## Verison ?? Vario Vesa mounts
 
-Mood: the alignment on 
+Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are 
 
 ## Epilogue: Am I done now?
 
