@@ -496,8 +496,15 @@ Timeline: August 2021
 
 Mood: I saw this review for this cool rumble kit thing on Facebook, it's pretty cheap, let's try that.
 
-What I did:
-* 
+What I did: 
+* Bought the sim3d rumble kit + wind sim 
+    * https://www.sim-3d.co.uk/product/pedal-rumble-motor-kit/6
+
+Thoughts: this is pretty cool. I haven't driven it in anger in iRacing yet (like on a GTE car). The wind sim piece is neat but I haven't gotten it dialed in quite yet.
+
+Reference material:
+* Calvin's setup guide
+    * https://www.youtube.com/watch?v=Oq-EGbc_dUc&ab_channel=CalvinDent
 
 
 ## Version 7.2: Cable management
