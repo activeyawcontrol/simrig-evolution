@@ -6,13 +6,13 @@ Once upon a time, I enjoyed playing Gran Turismo 3 with a controller. Then a bun
 
 You may notice a cluster of purchases in April 2020. That's right around when it became clear that autocross season was effectively canceled. 
 
-Things have cooled off quite a bit in 2021. I have my setup pretty much how I want it and I'm at the "upgrades would be diminishing returns" phase for sure. 
+Things have cooled off quite a bit in 2021. I have my setup pretty much how I want it and I'm at the "upgrades would be diminishing returns" phase for sure. Like, sure, an SC2 Pro or HE Ultimate pedals or whatever might be nice? But it definitely wouldn't make me faster. 
 
 ## I don't want to read all this noise, despite the charming and snarky tone. What lessons did you learn that other people can use?
 
 * Skip to the good stuff. You'll save money in the long term. 
     * I went straight to the Heusinkvelds when I decided to get serious - that turned out great.
-    * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible - it was fine, but it's not a button box I will want to keep forever.
+    * I bought a cheaper wireless SC2 button box (NSH racing) at the beginning. It did not turn out great. Not terrible - it was fine, but it's not a button box I will want to keep forever. It's just a backup at this point. 
 * Consider whether you *really* want direct drive. One of the things I like about the SC2 is basically infinite wheel choice (there aren't a lot of options in the Thrustmaster universe). But even on an SC2 Sport, I'm never using 100% of the force. If I had to go back to the T300RS wheelbase/wheel, I'd be fine. I see people on Facebook talking about how they really want an SC2 but can barely afford it - don't! Get some load cell pedals and call it a day. The DD will not make you faster. It's not worth going into debt for.
 * Simucube 2 wireless has been 100% reliable for me so far. I haven't even had to change batteries in the button boxes yet.
 * Two little sort of stupid things that make me happy:
