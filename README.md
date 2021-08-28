@@ -597,7 +597,8 @@ What:
 * SimCore STD24-WS
 
 Notes:
-* I had to do a lot of thinking ahead of time to figure out what buttons should do what
+* When you order one, you get an email from George at SimCore asking you to figure out what labels you want on what buttons. I had to do a lot of thinking ahead of time to figure out what buttons should do what. Jardier's video was helpful in this regard (see below). I knew what to mapto the top, big, obvious buttons, stuff I use all th etime like ignition, lights, and the pit limiter, but to figure out what should go where on the bottom half it was a little harder.
+* George can prewire the button box to accept inputs from two red "hard" buttons on the P310. I use these two buttons for Crew Chief. I want to label them NOS 1 and NOS 2 though.
 
 Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons). I use those for Crew Chief.
 
