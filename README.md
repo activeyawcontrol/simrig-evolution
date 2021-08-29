@@ -19,7 +19,7 @@ Things have cooled off quite a bit in 2021. I have my setup pretty much how I wa
     * The 3d-simgear flag. The radar functionality is awesome and the flashing flags are just cool. It's one of those nice immersion things.
     * The Simucube premium power-off button. It looks nice, it blends into the black aluminum, and I can easily tell whether the wheelbase is on.
 
-## Version 0.0
+## Version 0.0: Gran Turismo mode
 
 Timeline: 0 AD -> 2003, maybe?
 
@@ -29,7 +29,7 @@ PC:
 * Not a PC. PS2
 * Gran Turismo 3
 
-## Version 1.0
+## Version 1.0: Gran Turismo but with a wheel
 
 Timeline: 2003, maybe? -> December 2017
 
@@ -60,7 +60,7 @@ Sim rig:
 * [+] Thrustmaster T300RS pedals
 * Coffee table + extra wood for mounting
 
-## Version 2.1
+## Version 2.1: iRacing on a pretty hokey rig
 
 Timeline: November 2019 -> January 2020
 
@@ -86,7 +86,7 @@ Sim rig:
 
 ![sweet chair](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev2-1.jpg)
 
-## Version 3.0: The SimRiggening
+## Version 3.0: The SimRiggening: Time for 8020
 
 Timeline: January 2020 -> April 2020
 
@@ -272,7 +272,7 @@ Sim rig:
 
 ![Kinda awkward with only the one monitor](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev3-4.jpg)
 
-## Version 4.1
+## Version 4.1: minor tweaks
 
 Timeline: April 2020 - May 2020
 
@@ -302,7 +302,7 @@ Sim rig:
 * [+] SimLab PC shelf
 * [+] Sym Projects Pro Race 2 (rev light)
 
-## Version 4.2
+## Version 4.2: ~~Fanatec~~ Heusinkveld shifter/handbrake
 
 Timeline: May 2020 - July 2020
 
@@ -345,7 +345,7 @@ Sim rig:
 
 ![cable management sucks](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev42.jpg)
 
-## Version 5.0
+## Version 5.0: Triples have entered the chat
 
 Timeline: July 2020 - September 2020
 
@@ -393,7 +393,7 @@ References:
 * Dan Suzuki's triple-screens-without-surround video 
     * https://www.youtube.com/watch?v=-irPlVdDdJo&ab_channel=DanSuzuki
 
-## Version 6.0
+## Version 6.0: Direct Drive time
 
 Timeline: September 2020 - November 2020
 
@@ -454,7 +454,7 @@ Mood: Dan Suzuki has one of these flag things. It's cool! It also gives you warn
 
 https://shop.3d-simgear.de/en/category-2/	
 
-## Version 7.0: SimCore mount
+## Version 7.0: Enhanced ergonomics: SimCore front mount
 
 Timeline: July 2021 - August 2021
 
@@ -530,7 +530,7 @@ Pictures to come.
 
 ## Verison ?? Vario Vesa mounts
 
-Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are 
+Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are a great solution to this. I just need to make time to add them. 
 
 ## Epilogue: Am I done now?
 
