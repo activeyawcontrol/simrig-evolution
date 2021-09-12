@@ -532,12 +532,22 @@ Pictures to come.
 
 Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are a great solution to this. I just need to make time to add them. 
 
+## Version ?? Seat adjustments, more cleanup
+
+Mood: I want to continue iterating on the ergonomics.
+
+What I bought: 
+* Ordered SimLab seat brackets to replace the NRG ones. This should allow me additional recline.
+
+Reference material:
+* https://www.youtube.com/watch?v=xCfOiC08_Qo
+
 ## Epilogue: Am I done now?
 
 No.
 
 
-## Appendix: Wheel collection
+# Appendix: Wheel collection
 
 ### Wheel 1: convert the T300RS wheel
 
