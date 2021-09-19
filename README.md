@@ -528,19 +528,27 @@ Reference material:
 
 Pictures to come.
 
-## Verison ?? Vario Vesa mounts
-
-Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are a great solution to this. I just need to make time to add them. 
-
 ## Version ?? Seat adjustments, more cleanup
 
-Mood: I want to continue iterating on the ergonomics.
+Timeline: September 2021
+
+Mood: I want to continue iterating on the ergonomics. I saw this video (https://www.youtube.com/watch?v=xCfOiC08_Qo ) about seating position and I'd like to get slightly more reclined. The NRG brackets don't allow quite enough recline.
 
 What I bought: 
 * Ordered SimLab seat brackets to replace the NRG ones. This should allow me additional recline.
 
+Thoughts:
+* The SimLab brackets have a lot more adjustability than the NRG ones.
+
 Reference material:
-* https://www.youtube.com/watch?v=xCfOiC08_Qo
+* GT3 seating position + rig positioning
+ * https://www.youtube.com/watch?v=xCfOiC08_Qo
+* SimLab bracket install (I didn't use this but could be helpful for someone)
+ * https://www.youtube.com/watch?v=w7q8PFM1rUI
+
+## Verison ?? Vario Vesa mounts
+
+Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are a great solution to this. I just need to make time to add them. 
 
 ## Epilogue: Am I done now?
 
