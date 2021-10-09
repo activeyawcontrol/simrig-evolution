@@ -540,6 +540,26 @@ What I bought:
 Thoughts:
 * The SimLab brackets have a lot more adjustability than the NRG ones.
 
+Sim rig:
+* Simucube 2 Sport
+* SimCore UM1-ALN mount + mounting kit (500mm)
+* Heusinkveld Sprint pedals
+* Heusinkveld sequential shifter
+* Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* SimLab fourth monitor mount
+* NRG FRP310 seat
+* [-] NRG seat brackets
+* [+] SimLab seat brackets
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* SimLab PC shelf
+* Sym Projects Pro Race 2 (rev light)
+
 Reference material:
 * GT3 seating position + rig positioning
  * https://www.youtube.com/watch?v=xCfOiC08_Qo
