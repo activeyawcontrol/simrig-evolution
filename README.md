@@ -528,7 +528,7 @@ Reference material:
 
 Pictures to come.
 
-## Version ?? Seat adjustments, more cleanup
+## Version 7.3 Seat adjustments, more cleanup
 
 Timeline: September 2021
 
@@ -566,9 +566,43 @@ Reference material:
 * SimLab bracket install (I didn't use this but could be helpful for someone)
  * https://www.youtube.com/watch?v=w7q8PFM1rUI
 
-## Verison ?? Vario Vesa mounts
+## Verison 7.4 Vario Vesa mounts
+
+Timeline: November 2021
 
 Mood: the alignment on my triples is pretty good for doing it by hand but it's been bothering me a little. The SimLab Vario Vesa mounts are a great solution to this. I just need to make time to add them. 
+
+What I did: 
+* SimLab Vario Vesa 
+
+Thoughts: some of these cables are super annoying. Like the Simucube torque-off cable. I wish they had a 90 degree version. Or the Heusinkveld handbrake with its little clear box. Also, I should get a wireless keyboard. Also also, this is oddly addictive. Am I OCD?
+
+Sim rig:
+* Simucube 2 Sport
+* SimCore UM1-ALN mount + mounting kit (500mm)
+* Heusinkveld Sprint pedals
+* Heusinkveld sequential shifter
+* Heusinkveld handbrake
+* SimLab GT1 Evo
+* SimLab triple monitor mount (standalone)
+* SimLab fourth monitor mount
+* [+] SimLab Vario Vesa mounts
+* NRG FRP310 seat
+* SimLab seat brackets
+* Sparco Seat slider
+* Simlab Keyboard Tray
+* SimLab Speaker brackets
+* SimLab Caster wheels
+* SimLab Cup holder
+* SimLab PC shelf
+* Sym Projects Pro Race 2 (rev light)
+
+Reference material: 
+* Barry @ Sim Racing Garage install video
+    * https://www.youtube.com/watch?v=n_5rhj2NhyM
+* Dan Suzuki vario vesa video
+    * https://www.youtube.com/watch?v=hzROsvGpinM
+
 
 ## Epilogue: Am I done now?
 
