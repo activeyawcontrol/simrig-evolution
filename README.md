@@ -436,6 +436,10 @@ Sim rig:
 ![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev60.jpg)
 ![no button box yet](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6-4th.jpg)
 
+### Why the SC2 Sport instead of the SC2 Pro? It's only $200 more!
+
+TODO
+
 ## Version 6.1: bling
 
 Timeline: November 2020 - December 2020
