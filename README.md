@@ -208,6 +208,16 @@ Sim rig:
 * [+] SimLab Caster wheels
 * [+] SimLab Cup holder
 
+References:
+* Seat slider
+    * https://www.facebook.com/groups/304299857073607/permalink/655111128659143/
+    * https://www.facebook.com/groups/304299857073607/permalink/538352517001672/
+    * https://www.facebook.com/groups/304299857073607/permalink/606006196902970/
+    * https://www.facebook.com/groups/304299857073607/permalink/546839552819635/
+    * https://www.facebook.com/groups/304299857073607/permalink/643313363172253/
+    * https://sim-lab.eu/product/seat-slider/
+    * https://www.facebook.com/groups/304299857073607/permalink/363631657807093/
+
 ## Version 3.4: I mean I might do triples I guess
 
 Timeline: April 2020
@@ -543,6 +553,7 @@ What I bought:
 
 Thoughts:
 * The SimLab brackets have a lot more adjustability than the NRG ones.
+* I have to do the bar-bending thing on the slider again because the dimensions are slightly different. Not a big deal but annoying.
 
 Sim rig:
 * Simucube 2 Sport
