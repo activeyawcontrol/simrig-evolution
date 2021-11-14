@@ -449,6 +449,7 @@ Sim rig:
 ### Why the SC2 Sport instead of the SC2 Pro? It's only $200 more!
 
 TODO
+* https://www.youtube.com/watch?v=BLcnHPhW-yE&ab_channel=LaurenceDusoswa
 
 ## Version 6.1: bling
 
