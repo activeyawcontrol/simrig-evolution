@@ -65,3 +65,9 @@ Reasons why it sucks
 | Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S Min |
 | --- | --- | --- | --- | --- | --- |
 | 3x 1080p | Mine | | 69.7 | 54.1 | 46.4 |
+| 3x 1080p | Mid | | 74.1 | 57.7 | 47.3 |
+| 3x 1080p | High | | 47.3 | 38.0 | 34.4 |
+| 3x 1080p | Epic | | 33.9 | 27.9 | 22.0 |
+| 3x 1080p | Epic | DLSS Quality | 44.8 | 36.1 | 32.1 |
+| 3x 1080p | Epic | FSR Quality | 44.3 | 35.5 | 29.6 |
+
