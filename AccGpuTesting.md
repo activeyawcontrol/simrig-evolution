@@ -20,6 +20,9 @@ Since I would have access to three relevant GPUs in a relatively short period of
 
 I captured a replay of a ~40 car grid from a SimRacing604 fun race. It was shortly after the ACC 1.8 update and so everyone was in the BMW M4 at Nurburgring.
 
+Frameview documentation here
+* https://www.nvidia.com/content/dam/en-zz/Solutions/GeForce/technologies/frameview/frameview-user-guide-1-1-web.pdf
+
 Here's a Youtube video of the replay (IIRC, 1440 triple + epic detail + FSR quality)
 
 ** TODO upload video
@@ -59,3 +62,6 @@ Reasons why it sucks
 
 ## ACC results
 
+| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S Min |
+| --- | --- | --- | --- | --- | --- |
+| 3x 1080p | Mine | | 69.7 | 54.1 | 46.4 |
