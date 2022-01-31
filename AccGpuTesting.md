@@ -2,7 +2,7 @@
 
 There isn't a lot of great data about ACC, triple screens, and graphics cards.
 
-
+![numbers?](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-math-confused.gif)
 
 I have been running an Asus 2060 Super for about 18 months. I recently bought an EVGA 3070 bundle from antonline. 
 Later that day, I realized that I could enroll in the "step up" program through EVGA. 
@@ -66,7 +66,7 @@ Reasons why it sucks
 
 ## To the numbers!
 
-** TODO go.gif
+![go!](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-go.gif)
 
 ## ACC results: triple 1080p
 
