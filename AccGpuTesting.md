@@ -63,7 +63,7 @@ Reasons why it sucks
 * 2060S: 
 * 3070: 
 
-## ACC results
+## ACC results: triple 1080p
 
 | Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S Min |
 | --- | --- | --- | --- | --- | --- |
@@ -73,6 +73,10 @@ Reasons why it sucks
 | 3x 1080p | Epic |              | 33.9 | 27.9 | 22.0 |
 | 3x 1080p | Epic | DLSS Quality | 44.8 | 36.1 | 32.1 |
 | 3x 1080p | Epic | FSR Quality  | 44.3 | 35.5 | 29.6 |
+
+## ACC results: triple 1440p
+
+![the new crysis](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-worse.gif)
 
 | Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min
 | ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- | 
@@ -85,6 +89,13 @@ Reasons why it sucks
 | 3x 1440p | High  |              | 31.1 | 25.8 | 20.9 | 51.9 | 41.7 | 37.4 | 
 | 3x 1440p | High  | DLSS Quality | 41.8 | 34.3 | 28.4 | 63.4 | 49.2 | 34.4 | 
 | 3x 1440p | High  | FSR Quality  | 42.5 | 34.6 | 29.0 | 67.5 | 53.0 | 45.4 | 
+
+### ACC results: triple 1440p, epic preset
+
+![the new crysis](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-epic.gif)
+
+| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min
+| ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- | 
 | 3x 1440p | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 
 | 3x 1440p | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 
 | 3x 1440p | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 
