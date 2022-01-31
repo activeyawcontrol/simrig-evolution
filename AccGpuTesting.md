@@ -16,9 +16,9 @@ Since I would have access to three relevant GPUs in a relatively short period of
 * 16 GB RAM, XMP'd to 3200
 * 512 GB NVME drive where ACC lives
 * Various GPUs:
- * Asus 2060 Super Dual Evo (or something like that)
- * EVGA 3070 FTW3 (non Ti)
- * EVGA 3080 Ti FTW3 (coming soon?)
+  * Asus 2060 Super Dual Evo (or something like that)
+  * EVGA 3070 FTW3 (non Ti)
+  * EVGA 3080 Ti FTW3 (coming soon?)
 
 ## Methodology
 
