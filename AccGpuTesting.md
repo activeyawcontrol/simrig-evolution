@@ -6,6 +6,9 @@ I have been running an Asus 2060 Super for about 18 months. I recently bought an
 Later that day, I realized that I could enroll in the "step up" program through EVGA. 
 Since I would have access to three relevant GPUs in a relatively short period of time, I figured I'd do my best to try some science (tm)
 
+![science!](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-science.gif)
+
+
 ** jesse gif
 
 ### My PC
