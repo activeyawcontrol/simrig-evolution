@@ -2,22 +2,23 @@
 
 There isn't a lot of great data about ACC, triple screens, and graphics cards.
 
+
+
 I have been running an Asus 2060 Super for about 18 months. I recently bought an EVGA 3070 bundle from antonline. 
 Later that day, I realized that I could enroll in the "step up" program through EVGA. 
 Since I would have access to three relevant GPUs in a relatively short period of time, I figured I'd do my best to try some science (tm)
 
 ![science!](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-science.gif)
 
-
-** jesse gif
-
 ### My PC
 
 * AMD Ryzen 5 3600
 * 16 GB RAM, XMP'd to 3200
 * 512 GB NVME drive where ACC lives
-* Asus 2060 Super Dual Evo (or something like that)
-* EVGA 3070 FTW3 (non Ti)
+* Various GPUs:
+ * Asus 2060 Super Dual Evo (or something like that)
+ * EVGA 3070 FTW3 (non Ti)
+ * EVGA 3080 Ti FTW3 (coming soon?)
 
 ## Methodology
 
@@ -62,6 +63,10 @@ Reasons why it sucks
 
 * 2060S: 
 * 3070: 
+
+## To the numbers!
+
+** TODO go.gif
 
 ## ACC results: triple 1080p
 
