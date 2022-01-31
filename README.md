@@ -1,4 +1,4 @@
-# My sim rig evolution, aka "how deep does the rabbit hole go"
+# My sim rig evolution, aka "the rabbit hole"
 
 ![It's deep](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/3HeH.gif)
 
