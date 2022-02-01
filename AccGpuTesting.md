@@ -27,7 +27,7 @@ I captured a replay of a ~40 car grid from a SimRacing604 fun race. It was short
 Frameview documentation here
 * https://www.nvidia.com/content/dam/en-zz/Solutions/GeForce/technologies/frameview/frameview-user-guide-1-1-web.pdf
 
-Here's a Youtube video of the replay (IIRC, 1440 triple + epic detail + FSR quality)
+Here's a Youtube video of the replay. Note that because the replay was captured with triples, but I'm only playing it back on one monitor, it looks goofy. The goal here is just to give folks a loose idea of what the video was like. 
 
 * https://www.youtube.com/watch?v=I1PxbWalp70
 
