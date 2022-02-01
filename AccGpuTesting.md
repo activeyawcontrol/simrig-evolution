@@ -122,5 +122,6 @@ Reasons why it sucks
 * FSR does seem to produce slightly better frame rate than DLSS
 * Oddly, DLSS made performance worse at triple 1440 basic?
 * A 3070 should be enough to play ACC in triple 1440p as long as you turn down the settings and use one of the optimizations (DLSS/FSR). 
+  * My goal is to keep things above 60 FPS, not something crazy like 100+. 
 
 What I'm currently using: until I step-up to a 3080ti, I'm using triple 1440 high + FSR quality. For hotlapping, etc it's plenty, and in a busy field it might drop a little, but that is only for the first couple of laps. 
