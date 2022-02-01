@@ -29,7 +29,9 @@ Frameview documentation here
 
 Here's a Youtube video of the replay (IIRC, 1440 triple + epic detail + FSR quality)
 
-** TODO upload video
+* https://www.youtube.com/watch?v=I1PxbWalp70
+
+[![Watch the video](https://img.youtube.com/vi/I1PxbWalp70/default.jpg)](https://youtu.be/I1PxbWalp70)
 
 The replay file is 178 MB - too big for github. Even zip compressed still 120 MB. If you want to try, let me know.
 
