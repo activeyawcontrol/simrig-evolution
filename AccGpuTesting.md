@@ -126,3 +126,9 @@ Reasons why it sucks
   * My goal is to keep things above 60 FPS, not something crazy like 100+. 
 
 What I'm currently using: until I step-up to a 3080ti, I'm using triple 1440 high + FSR quality. For hotlapping, etc it's plenty, and in a busy field it might drop a little, but that is only for the first couple of laps. 
+
+## Can I help?
+
+If you have a similarly spec'd system (2060S, 3070, or something close) it would be really interesting to see your results too! 
+
+activeyawcontrol at gmail
