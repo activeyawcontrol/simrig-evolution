@@ -41,6 +41,7 @@ Here's a Youtube video of the replay. Note that because the replay was captured 
 [![Watch the video](https://img.youtube.com/vi/I1PxbWalp70/default.jpg)](https://youtu.be/I1PxbWalp70)
 
 The replay file is 178 MB - too big for github. Even zip compressed still 120 MB. If you want to try, let me know.
+* Kunos, if you're out there, please let us trim replay files!
 
 When testing, I would:
 * Set up FrameView - record for 120 seconds, no delay, when hitting F10
