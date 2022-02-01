@@ -1,6 +1,6 @@
 ## What is this?
 
-There isn't a lot of great data about ACC, triple screens, and graphics cards.
+There isn't a lot of great data about ACC, triple screens, and graphics cards. This makes it hard to figure out how far you need to upgrade in order to play triple 1440 comfortably.
 
 ![numbers?](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-math-confused.gif)
 
