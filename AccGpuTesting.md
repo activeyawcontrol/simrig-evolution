@@ -31,9 +31,7 @@ Here's a Youtube video of the replay (IIRC, 1440 triple + epic detail + FSR qual
 
 ** TODO upload video
 
-Here's the replay file if you would also like to try it:
-
-** TODO upload replay
+The replay file is 178 MB - too big for github. Even zip compressed still 120 MB. If you want to try, let me know.
 
 When testing, I would:
 * Set up FrameView - record for 120 seconds, no delay, when hitting F10
