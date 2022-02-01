@@ -20,6 +20,13 @@ Since I would have access to three relevant GPUs in a relatively short period of
   * EVGA 3070 FTW3 (non Ti)
   * EVGA 3080 Ti FTW3 (coming soon?)
 
+## Some prior art
+
+BonnyTech did some 3070 triple 1440 testing in ACC here
+* https://www.youtube.com/watch?v=fAxWfbWf2to
+
+This testing was of a single car, and it was before 1.8 with DLSS/FSR.
+
 ## Methodology
 
 I captured a replay of a ~40 car grid from a SimRacing604 fun race. It was shortly after the ACC 1.8 update and so everyone was in the BMW M4 at Nurburgring.
@@ -114,5 +121,6 @@ Reasons why it sucks
 * ACC is not nice to GPUs
 * FSR does seem to produce slightly better frame rate than DLSS
 * Oddly, DLSS made performance worse at triple 1440 basic?
+* A 3070 should be enough to play ACC in triple 1440p as long as you turn down the settings and use one of the optimizations (DLSS/FSR). 
 
 What I'm currently using: until I step-up to a 3080ti, I'm using triple 1440 high + FSR quality. For hotlapping, etc it's plenty, and in a busy field it might drop a little, but that is only for the first couple of laps. 
