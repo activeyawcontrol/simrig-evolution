@@ -37,32 +37,36 @@ The replay file is 178 MB - too big for github. Even zip compressed still 120 MB
 
 When testing, I would:
 * Set up FrameView - record for 120 seconds, no delay, when hitting F10
-* Make graphics settings changes
-* Hit Apply (if you don't hit apply, it doesn't warn you that you haven't :( )
-* Go to main menu -> gallery
+  * If you're out there NVidia, please update FrameView so that it saves its settings!!
+* ACC -> Main menu -> Options -> Video -> Make graphics settings changes
+  * Hit Apply (if you don't hit apply, it doesn't warn you that you haven't :( )
+  * If you're out there Kunos, please update the Video settings page so that it warns you if you haven't clicked Apply! That would have saved me some time
+* ACC -> Main menu -> Gallery
 * Select the replay file
-* Give it a little bit to load textures, whatever
-* Pick my car (car 17) - I was last or almost last, so I have a good view of the field
+* Give it a little bit to load textures, whatever (it usually looks odd for the first few seconds)
+* Pick my car (car 17) 
+  * I was last or almost last, so I have a good view of the field
 * Switch to the higher rear camera - so you can see all of my car, including the rear diffuser, maximizing how far ahead the game has to draw
 * Skip to 6:27 of the video (end of the warmup lap)
 * Wait until 6:30 and then hit F10
-* After Frameview reappears, rewind to 6:27 and do it again
+* After Frameview reappears, rewind to 6:27 and do it again (2 tests per configuration to look for outliers)
 * The results land in the FrameView directory
 
 Reasons why this methodology is okay
 * It produced pretty reproducible results
+* It's relatively worst case (lots of cars, external cam)
 
 Reasons why it sucks
 * I suck at Nurb GP, and using this means uploading a video of me sucking at the Nurb GP.
-* It is in replay mode, so it might not reflect how the game plays in the real world, especially compared to racing against AI. (I never race against AI, so
-* this is not a relevant use case for me)
-* There's only one car model. At least in iRacing, this seems to be a big deal (which is why they capped the number of distinct car models that can be on track at once). 
-* I don't think the same is true in ACC, but calling it out. 
+* It is in replay mode, so it might not reflect how the game plays in the real world, especially compared to racing against AI. (I never race against AI, so this is not a relevant use case for me)
+* There's only one car model - the BMW M4. At least in iRacing, this seems to be a big deal (which is why they capped the number of distinct car models that can be on track at once). I don't think the same is true in ACC, but calling it out. 
 
-## 3dMark results for reference
+## 3dMark TimeSpy results for reference
 
-* 2060S: 
-* 3070: 
+* 2060S: 8398
+  * https://www.3dmark.com/spy/25949335
+* 3070: 11976
+  * https://www.3dmark.com/spy/26001553
 
 ## To the numbers!
 
