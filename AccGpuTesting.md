@@ -109,3 +109,10 @@ Reasons why it sucks
 | 3x 1440p | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 
 | 3x 1440p | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 
 
+## Conclusions
+
+* ACC is not nice to GPUs
+* FSR does seem to produce slightly better frame rate than DLSS
+* Oddly, DLSS made performance worse at triple 1440 basic?
+
+What I'm currently using: until I step-up to a 3080ti, I'm using triple 1440 high + FSR quality. For hotlapping, etc it's plenty, and in a busy field it might drop a little, but that is only for the first couple of laps. 
