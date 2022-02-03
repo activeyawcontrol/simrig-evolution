@@ -82,14 +82,18 @@ Reasons why it sucks
 
 ## ACC results: triple 1080p
 
-| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S Min |
-| --- | --- | --- | --- | --- | --- |
-| 3x 1080p | Mine |              | 69.7 | 54.1 | 46.4 |
-| 3x 1080p | Mid  |              | 74.1 | 57.7 | 47.3 |
-| 3x 1080p | High |              | 47.3 | 38.0 | 34.4 |
-| 3x 1080p | Epic |              | 33.9 | 27.9 | 22.0 |
-| 3x 1080p | Epic | DLSS Quality | 44.8 | 36.1 | 32.1 |
-| 3x 1080p | Epic | FSR Quality  | 44.3 | 35.5 | 29.6 |
+| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S Min | 3070 avg | 3070 99% | 3070 min
+| --- | --- | --- | --- | --- | --- |--- | --- | --- |
+| 3x 1080p | Mine |              | 69.7 | 54.1 | 46.4 | 
+| 3x 1080p | Mid  |              | 74.1 | 57.7 | 47.3 | 90.6 | 66.3 | 49.6
+| 3x 1080p | Mid  | DLSS Quality | ---- | --- | --- | 85.8 | 63.7 | 54.7
+| 3x 1080p | Mid  | FSR Quality  | ---- | --- | --- | 84.8 | 63.3 |55.8
+| 3x 1080p | High |              | 47.3 | 38.0 | 34.4 | 68.4 | 52.0 | 36.2
+| 3x 1080p | High | DLSS Quality | ---- | --- | --- | 62.7 | 47.6 | 35.9
+| 3x 1080p | High | FSR Quality  | ---- | --- | --- | 67.7 | 50.4 | 34.21
+| 3x 1080p | Epic |              | 33.9 | 27.9 | 22.0 | 54.1 | 41.2 |
+| 3x 1080p | Epic | DLSS Quality | 44.8 | 36.1 | 32.1 | 57.6 | 42.8 |
+| 3x 1080p | Epic | FSR Quality  | 44.3 | 35.5 | 29.6 | 62.5 | 47.3 |
 
 ## ACC results: triple 1440p
 
