@@ -99,27 +99,27 @@ Reasons why it sucks
 
 ![the new crysis](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-worse.gif)
 
-| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min
-| ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- | 
-| 3x 1440p | Basic |              | 73.3 | 56.2 | 43.9 | 108.9 | 79.4 | 64.9 | 
-| 3x 1440p | Basic | DLSS quality | 62.0 | 49.7 | 39.5 | 91.5 | 68.6 | 46.1 | 
-| 3x 1440p | Basic | FSR quality  | 65.2 | 50.7 | 40.0 | 98.5 | 69.2 | 47.3 | 
-| 3x 1440p | Mid   |              | 49.4 | 40.3 | 34.0 | 80.0 | 62.9 | 56.7 | 
-| 3x 1440p | Mid   | DLSS Quality | 53.6 | 44.5 | 41.3 | 81.0 | 65.1 | 50.8 | 
-| 3x 1440p | Mid   | FSR Quality  | 44.3 | 35.5 | 29.6 | 86.5 | 68.3 | 62.2 | 
-| 3x 1440p | High  |              | 31.1 | 25.8 | 20.9 | 51.9 | 41.7 | 37.4 | 
-| 3x 1440p | High  | DLSS Quality | 41.8 | 34.3 | 28.4 | 63.4 | 49.2 | 34.4 | 
-| 3x 1440p | High  | FSR Quality  | 42.5 | 34.6 | 29.0 | 67.5 | 53.0 | 45.4 | 
+| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min | 3080ti avg | 3080ti 99% | 3080ti min
+| ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- |  --- | --- | --- 
+| 3x 1440p | Basic |              | 73.3 | 56.2 | 43.9 | 108.9 | 79.4 | 64.9 |  --- | --- | ---  
+| 3x 1440p | Basic | DLSS quality | 62.0 | 49.7 | 39.5 | 91.5 | 68.6 | 46.1 |  --- | --- | ---  
+| 3x 1440p | Basic | FSR quality  | 65.2 | 50.7 | 40.0 | 98.5 | 69.2 | 47.3 |  --- | --- | ---  
+| 3x 1440p | Mid   |              | 49.4 | 40.3 | 34.0 | 80.0 | 62.9 | 56.7 |  --- | --- | ---  
+| 3x 1440p | Mid   | DLSS Quality | 53.6 | 44.5 | 41.3 | 81.0 | 65.1 | 50.8 |  --- | --- | --- 
+| 3x 1440p | Mid   | FSR Quality  | 44.3 | 35.5 | 29.6 | 86.5 | 68.3 | 62.2 |  --- | --- | ---  
+| 3x 1440p | High  |              | 31.1 | 25.8 | 20.9 | 51.9 | 41.7 | 37.4 | 70.6 | 54.7 | 46.1
+| 3x 1440p | High  | DLSS Quality | 41.8 | 34.3 | 28.4 | 63.4 | 49.2 | 34.4 | 71.4 | 54.1 | 43.9
+| 3x 1440p | High  | FSR Quality  | 42.5 | 34.6 | 29.0 | 67.5 | 53.0 | 45.4 | 73.3 | 55.8 | 41.3
 
 ### ACC results: triple 1440p, epic preset
 
 ![the new crysis](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-epic.gif)
 
-| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min
-| ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- | 
-| 3x 1440p | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 
-| 3x 1440p | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 
-| 3x 1440p | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 
+| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min | 3080ti avg | 3080ti 99% | 3080ti min
+| ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- |  --- | --- | --- | 
+| 3x 1440p | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 57.4 | 44.3 | 37.4
+| 3x 1440p | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 66.6 | 50.1 | 36.9
+| 3x 1440p | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 68.4 | 51.7 | 38.6
 
 ## Conclusions
 
