@@ -18,7 +18,7 @@ Since I would have access to three relevant GPUs in a relatively short period of
 * Various GPUs:
   * Asus 2060 Super Dual Evo (or something like that)
   * EVGA 3070 FTW3 (non Ti)
-  * EVGA 3080 Ti FTW3 (coming soon?)
+  * EVGA 3080 Ti FTW3 
 
 ## Some prior art
 
@@ -75,6 +75,8 @@ Reasons why it sucks
   * https://www.3dmark.com/spy/25949335
 * 3070: 11976
   * https://www.3dmark.com/spy/26001553
+* 3080ti: 15519
+*  * https://www.3dmark.com/spy/26354048
 
 ## To the numbers!
 
