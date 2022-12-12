@@ -621,6 +621,15 @@ Reference material:
 
 ## Version 7.5: new wheel!
 
+Timeline: November 2021
+
+Mood: I have mostly round/trapezoidal wheels. I'd like to try one of those formula-style GT3 wheels and someone on racedepartment had one for sale.
+
+What I did: 
+* SimRacingBay GT3 wheel
+
+Thoughts: Ahh yes this is awesome. Ascher shifters are great.
+
 ## Version 8.0: new GPU(s)
 
 ## Epilogue: Am I done now?
