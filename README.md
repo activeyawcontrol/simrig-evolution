@@ -619,6 +619,9 @@ Reference material:
 * Dan Suzuki vario vesa video
     * https://www.youtube.com/watch?v=hzROsvGpinM
 
+## Version 7.5: new wheel!
+
+## Version 8.0: new GPU(s)
 
 ## Epilogue: Am I done now?
 
