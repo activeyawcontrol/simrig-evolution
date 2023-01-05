@@ -451,6 +451,35 @@ Sim rig:
 TODO
 * https://www.youtube.com/watch?v=BLcnHPhW-yE&ab_channel=LaurenceDusoswa
 
+## Version 6.0.1: convert the T300RS wheel to work with the SC2
+
+Timeline: September 2020
+
+Why: I already have the T300, so it's sort of free.
+What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, the wrong quick release
+
+![on the bottom](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x.jpg)
+
+https://github.com/activeyawcontrol/simrig-evolution/blob/main/rev6x.jpg
+
+Review: This was fine and it got me through the initial period where I was waiting for button boxes to be in stock. I disassembled it and put the T300RS setup back the way it was so that the kiddos can use it on the PS4.
+
+### Version 6.0.2: GT wheel: NSH Racing + Motamec D shape
+
+Timeline: September 2020
+
+Why: TCR, GT3, GTE.
+
+What:
+* NSH Racing BLE Sport wireless button box
+* Motamec D-shape 320mm wheel
+
+![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
+
+Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
+
+NSH Racing appears to be out of business now. Do not recommend.
+
 ## Version 6.1: bling
 
 Timeline: November 2020 - December 2020
@@ -468,6 +497,33 @@ Timeline: December 2020 - July 2021
 Mood: Dan Suzuki has one of these flag things. It's cool! It also gives you warnings when you're alongside someone, kind of like external radar.
 
 https://shop.3d-simgear.de/en/category-2/	
+ 
+## Version 6.3: GT wheel, but again: Sparco P310 + SimCore STD24-WS
+
+Timeline: January 2021
+
+![before my hands started messing up the wheel](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210401_145921955.jpg)
+
+Why: another button broken on the NSH Racing box. Also, the people who touch SimCore button boxes seem to love them.
+
+What:
+* Sparco P310
+* SimCore STD24-WS
+
+Notes:
+* When you order one, you get an email from George at SimCore asking you to figure out what labels you want on what buttons. I had to do a lot of thinking ahead of time to figure out what buttons should do what. Jardier's video was helpful in this regard (see below). I knew what to mapto the top, big, obvious buttons, stuff I use all th etime like ignition, lights, and the pit limiter, but to figure out what should go where on the bottom half it was a little harder.
+* George can prewire the button box to accept inputs from two red "hard" buttons on the P310. I use these two buttons for Crew Chief. I want to label them NOS 1 and NOS 2 though.
+
+Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons). I use those for Crew Chief.
+
+Reference material: 
+* Boosted Media's STD24-WS review
+    * https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
+* GTGreg's STD24-WS review
+    * https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
+* This video from Jardier was very helpful for figuring out what functions I should map for ACC:
+    * https://www.youtube.com/watch?v=uIKfOaLw3Us
+
 
 ## Version 7.0: Enhanced ergonomics: SimCore front mount
 
@@ -639,18 +695,6 @@ No.
 
 # Appendix: Wheel collection
 
-### Wheel 1: convert the T300RS wheel
-
-Purchased September 2020
-
-Why: I already have the T300, so it's sort of free.
-What I bought: SimRacingCoach Thrustmaster-to-OSW adapter, the wrong quick release
-
-![on the bottom](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x.jpg)
-
-https://github.com/activeyawcontrol/simrig-evolution/blob/main/rev6x.jpg
-
-Review: This was fine and it got me through the initial period where I was waiting for button boxes to be in stock. I disassembled it and put the T300RS setup back the way it was so that the kiddos can use it on the PS4.
 
 ### Wheel 2: rally wheel: Sparco R383 + SimLine button box
 
@@ -670,42 +714,3 @@ Review: I started out with just a wheel + the Simucube quick release because DiR
 
 You can find them on Facebook here: https://www.facebook.com/simline.gt/
 
-### Wheel 3: GT wheel: NSH Racing + Motamec D shape
-
-Purchased September 2020
-
-Why: TCR, GT3, GTE.
-
-What:
-* NSH Racing BLE Sport wireless button box
-* Motamec D-shape 320mm wheel
-
-![yellow at first](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/rev6x2.jpg)
-
-Review: This button box was.. fine. They messed up my order at first (wrong color, and they forgot the SQR) and then the box was damaged in shipping (funky switch broken). They got a replacement out pretty fast. On the replacement box, no issues other than the headlight button stopped working. The paddles are fine but I think the SimCore ones have ruined me. One thing about this box - while I don't think I'd buy another one, I really like the layout, even compared to the SimCore. There are dedicated dials for a lot of different functions, which each get their own labels. This is easier to work with than mapping a bunch of functions to the same funky switch and trying to remember which is which. I'd like to see someone like SimCore try a layout like this out.
-
-### Wheel 4: GT wheel, but again: Sparco P310 + SimCore STD24-WS
-
-Purchased January 2021
-
-![before my hands started messing up the wheel](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210401_145921955.jpg)
-
-Why: another button broken on the NSH Racing box. Also, the people who touch SimCore button boxes seem to love them.
-
-What:
-* Sparco P310
-* SimCore STD24-WS
-
-Notes:
-* When you order one, you get an email from George at SimCore asking you to figure out what labels you want on what buttons. I had to do a lot of thinking ahead of time to figure out what buttons should do what. Jardier's video was helpful in this regard (see below). I knew what to mapto the top, big, obvious buttons, stuff I use all th etime like ignition, lights, and the pit limiter, but to figure out what should go where on the bottom half it was a little harder.
-* George can prewire the button box to accept inputs from two red "hard" buttons on the P310. I use these two buttons for Crew Chief. I want to label them NOS 1 and NOS 2 though.
-
-Review: this thing is awesome. The details are better covered by Boosted Media and GT Greg so I'll just link to those. It was a long wait but 100% worth it. I had to do a lot of planning to figure out what to label each button, because they will pre-print labels for all the functions you want and put them in the right place. I also wired up the physical buttons on the P310 afterwards (aka the "NOS 1" and "NOS 2" buttons). I use those for Crew Chief.
-
-Reference material: 
-* Boosted Media's STD24-WS review
-    * https://www.youtube.com/watch?v=qNO8ie9zPR8&ab_channel=BoostedMedia
-* GTGreg's STD24-WS review
-    * https://www.youtube.com/watch?v=FrNrLi6QQew&ab_channel=GTGreg
-* This video from Jardier was very helpful for figuring out what functions I should map for ACC:
-    * https://www.youtube.com/watch?v=uIKfOaLw3Us
