@@ -480,6 +480,25 @@ Review: This button box was.. fine. They messed up my order at first (wrong colo
 
 NSH Racing appears to be out of business now. Do not recommend.
 
+
+### Version 6.0.3: rally wheel: Sparco R383 + SimLine button box
+
+Timeline: purchased September 2020, arrived October 2020
+
+Why: I play a lot of DiRT 2.0 and I want something round + proper rally size.
+
+![330mm just right](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210806_212431464.jpg)
+
+Attempt 1:
+* OMP WRC. 350mm - too big. 
+
+Attempt 2: 
+* Sparco R383. 330mm, just right. 
+
+Review: I started out with just a wheel + the Simucube quick release because DiRT doesn't need very many buttons. I ended up purchasing a button box from SimLine. SimLine has a few ready-made type button boxes - a Fiesta WRC, a Porsche GT, and an Audi R8 GT3. They can also do custom wheels including funky switches and Simucube wireless. I had a button box made with only a handful of buttons, one funky switch (mostly for menus) and SC2 wireless. It's awesome! The paddles are better than the NSH though they are not amazeballs like the SimCore paddles. Buttons are good. And the value is excellent. The only thing I'd change is possibly ordering the Fiesta WRC button box in wireless instead because it looks great. (Though even in DiRT most of those buttons would not have jobs, I think; but they would look cool)
+
+You can find them on Facebook here: https://www.facebook.com/simline.gt/
+
 ## Version 6.1: bling
 
 Timeline: November 2020 - December 2020
@@ -688,29 +707,9 @@ Thoughts: Ahh yes this is awesome. Ascher shifters are great.
 
 ## Version 8.0: new GPU(s)
 
+## Version 8.1: new CPU
+
 ## Epilogue: Am I done now?
 
 No.
-
-
-# Appendix: Wheel collection
-
-
-### Wheel 2: rally wheel: Sparco R383 + SimLine button box
-
-Purchased September 2020
-
-Why: I play a lot of DiRT 2.0 and I want something round + proper rally size.
-
-![330mm just right](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20210806_212431464.jpg)
-
-Attempt 1:
-* OMP WRC. 350mm - too big. 
-
-Attempt 2: 
-* Sparco R383. 330mm, just right. 
-
-Review: I started out with just a wheel + the Simucube quick release because DiRT doesn't need very many buttons. I ended up purchasing a button box from SimLine. SimLine has a few ready-made type button boxes - a Fiesta WRC, a Porsche GT, and an Audi R8 GT3. They can also do custom wheels including funky switches and Simucube wireless. I had a button box made with only a handful of buttons, one funky switch (mostly for menus) and SC2 wireless. It's awesome! The paddles are better than the NSH though they are not amazeballs like the SimCore paddles. Buttons are good. And the value is excellent. The only thing I'd change is possibly ordering the Fiesta WRC button box in wireless instead because it looks great. (Though even in DiRT most of those buttons would not have jobs, I think; but they would look cool)
-
-You can find them on Facebook here: https://www.facebook.com/simline.gt/
 
