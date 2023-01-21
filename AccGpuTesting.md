@@ -120,11 +120,14 @@ Reasons why it sucks
 
 ![the new crysis](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/acc-epic.gif)
 
-| Resolution | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min | 3080ti avg | 3080ti 99% | 3080ti min
+| Resolution | CPU | Preset | Extra | 2060S avg | 2060S 99% | 2060S min | 3070 avg | 3070 99% | 3070 min | 3080ti avg | 3080ti 99% | 3080ti min
 | ---      | ---   | ---          | ---  | ---  | ---  | --- | --- | --- |  --- | --- | --- | 
-| 3x 1440p | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 57.4 | 44.3 | 37.4
-| 3x 1440p | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 66.6 | 50.1 | 36.9
-| 3x 1440p | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 68.4 | 51.7 | 38.6
+| 3x 1440p | 3600 | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 57.4 | 44.3 | 37.4
+| 3x 1440p | 3600 | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 66.6 | 50.1 | 36.9
+| 3x 1440p | 3600 | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 68.4 | 51.7 | 38.6
+| 3x 1440p | 5600x-TODO | Epic  |              | 22.0 | 18.2 | 13.7 | 37.7 | 30.4 | 24.2 | 57.4 | 44.3 | 37.4
+| 3x 1440p | 5600x-TODO | Epic  | DLSS Quality | 31.9 | 26.8 | 21.9 | 50.6 | 40.2 | 37.0 | 66.6 | 50.1 | 36.9
+| 3x 1440p | 5600x-TODO | Epic  | FSR Quality  | 31.0 | 25.5 | 21.2 | 51.8 | 40.6 | 36.8 | 68.4 | 51.7 | 38.6
 
 ## Conclusions
 
