@@ -703,11 +703,45 @@ Mood: I have mostly round/trapezoidal wheels. I'd like to try one of those formu
 What I did: 
 * SimRacingBay GT3 wheel
 
-Thoughts: Ahh yes this is awesome. Ascher shifters are great.
+![new wheel](https://raw.githubusercontent.com/activeyawcontrol/simrig-evolution/main/PXL_20220107_020517823.jpg)
 
-## Version 8.0: new GPU(s)
+Thoughts: Ahh yes this is awesome. Ascher shifters are great. The diameter is spot on, the buttons are very clicky and I appreciate not having the bar at the top of the wheel. The inputs on the SimCore feel better, both the buttons and the shifters, but this is still really good. 
+
+## Version 8.0.1: new GPU(s)
+
+Timeline: January 2022
+
+Mood: GPU prices are slightly less bananas than previous. EVGA has this cool step up program. I can get a 3070 now and trade it in for a 3080ti/3090 later.
+
+What I did:
+* EVGA 3070 FTW3 
+
+Thoughts:
+* See ACCGPUTesting.md
+
+## Version 8.0.2: new GPU, the sequel
+
+Timeline: February 2022
+
+Mood: My EVGA step-up came through. Time to get a 3080ti. This should hold me for a couple-few years. I want to run triple 1440p with room to spare.
+
+What I did:
+* EVGA 3080ti FTW3 
+
+Thoughts:
+* See ACCGPUTesting.md
 
 ## Version 8.1: new CPU
+
+Timeline: April 2022
+
+Mood: The R5 3600 is a good bang for buck CPU, but I'd like to go a step up without going crazy. 
+
+What I did:
+* AMD R5 5600x
+
+Thoughts:
+* I still need to benchmark, I think.
 
 ## Epilogue: Am I done now?
 
