@@ -717,7 +717,8 @@ What I did:
 * EVGA 3070 FTW3 
 
 Thoughts:
-* See ACCGPUTesting.md
+* I compared my old 2060S to the 3070 here: 
+    * [ACCGPUTesting.md](https://github.com/activeyawcontrol/simrig-evolution/blob/main/AccGpuTesting.md)
 
 ## Version 8.0.2: new GPU, the sequel
 
@@ -729,7 +730,8 @@ What I did:
 * EVGA 3080ti FTW3 
 
 Thoughts:
-* See ACCGPUTesting.md
+* I compared my 3070 to the 3080ti here: 
+    * [ACCGPUTesting.md](https://github.com/activeyawcontrol/simrig-evolution/blob/main/AccGpuTesting.md)
 
 ## Version 8.1: new CPU
 
