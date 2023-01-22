@@ -12,7 +12,7 @@ Since I would have access to three relevant GPUs in a relatively short period of
 
 ### My PC
 
-* AMD Ryzen 5 3600
+* AMD Ryzen 5 3600 (before) 5600x (after)
 * 16 GB RAM, XMP'd to 3200
 * 512 GB NVME drive where ACC lives
 * Various GPUs:
@@ -138,6 +138,7 @@ Reasons why it sucks
 * Oddly, DLSS made performance worse at triple 1440 basic?
 * A 3070 should be enough to play ACC in triple 1440p as long as you turn down the settings and use one of the optimizations (DLSS/FSR). 
   * My goal is to keep things above 60 FPS, not something crazy like 100+. 
+* Going from a 3600 to a 5600x did not affect things much. That's fine (for instance, it helps in iRacing), but if high rez ACC is your priority, spend on the GPU first. 
 
 What I'm currently using: until I step-up to a 3080ti, I'm using triple 1440 high + FSR quality. For hotlapping, etc it's plenty, and in a busy field it might drop a little, but that is only for the first couple of laps. 
 
