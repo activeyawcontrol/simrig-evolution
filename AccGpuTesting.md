@@ -71,12 +71,14 @@ Reasons why it sucks
 
 ## 3dMark TimeSpy results for reference
 
-* 2060S: 8398
+* 3600 + 2060S: 8398
   * https://www.3dmark.com/spy/25949335
-* 3070: 11976
+* 3600 + 3070: 11976
   * https://www.3dmark.com/spy/26001553
-* 3080ti: 15519
-*  * https://www.3dmark.com/spy/26354048
+* 3600 + 3080ti: 15519
+  * https://www.3dmark.com/spy/26354048
+* 5600x + 3080ti: xxx
+  * https://www.3dmark.com/spy/xxxx
 
 ## To the numbers!
 
