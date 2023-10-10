@@ -743,7 +743,17 @@ What I did:
 * AMD R5 5600x
 
 Thoughts:
-* I still need to benchmark, I think.
+* Updated benchmarks here
+    * [ACCGPUTesting.md](https://github.com/activeyawcontrol/simrig-evolution/blob/main/AccGpuTesting.md)
+
+## Version 8.2: new shifter
+
+Timeline: October 2023
+
+Mood: The HE shifter is fine, but I want a more rally-y one. Oktane designs makes a pretty sweet shifter.
+
+Thoughts:
+* SO CLICKY
 
 ## Epilogue: Am I done now?
 
